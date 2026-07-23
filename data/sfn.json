@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cours-eau",
+    "name": "Préserver et restaurer les cours d'eau",
+    "definition": "Actions visant à maintenir ou rétablir le bon fonctionnement des cours d’eau.",
+    "measures": [
+      "Restaurer la morphologie naturelle du cours d’eau : lit, méandres et sinuosité",
+      "Renaturer et stabiliser les berges de manière naturelle",
+      "Diversifier les écoulements et les habitats aquatiques",
+      "Rétablir la continuité écologique pour la circulation des espèces et des sédiments",
+      "Supprimer ou aménager les ouvrages perturbateurs",
+      "Restaurer la végétation des rives, notamment la ripisylve",
+      "Reconnecter le cours d’eau à ses annexes et à son lit majeur",
+      "Restaurer les dynamiques sédimentaires",
+      "Améliorer le fonctionnement écologique global du cours d’eau, y compris en zone agricole"
+    ],
+    "environments": [
+      "Milieu agricole",
+      "Milieu forestier",
+      "Milieu montagnard",
+      "Milieu urbain",
+      "Milieu humide et aquatique continental"
+    ]
+  },
+  {
+    "id": "zones-humides",
+    "name": "Préserver, restaurer et créer les zones humides",
+    "definition": "Actions visant à maintenir, restaurer ou créer des zones humides et leurs fonctions écologiques et hydrologiques.",
+    "measures": [
+      "Restaurer le fonctionnement hydrologique : remise en eau, suppression de drains et autres aménagements dégradants",
+      "Restaurer ou créer des zones humides : mares, dépressions humides, tourbières, etc.",
+      "Gérer écologiquement la végétation, notamment contre les espèces exotiques envahissantes et la fermeture des milieux"
+    ],
+    "environments": [
+      "Milieu agricole",
+      "Milieu forestier",
+      "Milieu montagnard",
+      "Milieu urbain",
+      "Milieu littoral",
+      "Milieu humide et aquatique continental"
+    ]
+  },
+  {
+    "id": "zones-expansion-crues",
+    "name": "Créer des zones d'expansion de crues",
+    "definition": "Aménagements permettant de stocker temporairement l’eau lors des crues en redonnant de l’espace au cours d’eau.",
+    "measures": [
+      "Reconnecter les plaines inondables",
+      "Supprimer ou abaisser les digues",
+      "Restaurer les bras secondaires",
+      "Créer des zones de stockage temporaire des crues",
+      "Mettre en place des zones d’inondation contrôlée"
+    ],
+    "environments": [
+      "Milieu agricole",
+      "Milieu urbain",
+      "Milieu humide et aquatique continental"
+    ]
+  },
+  {
+    "id": "reconnexion-marine",
+    "name": "Favoriser la reconnexion marine",
+    "definition": "Actions visant à améliorer la connectivité des hydrosystèmes continentaux et côtiers afin de restaurer leur fonctionnement naturel.",
+    "measures": [
+      "Mettre en place un recul stratégique des digues",
+      "Réouvrir des marais littoraux endigués",
+      "Restaurer des marais salés et des prés salés",
+      "Reconnecter des estuaires et des lagunes à la mer",
+      "Restaurer les dynamiques sédimentaires naturelles"
+    ],
+    "environments": [
+      "Milieu littoral"
+    ]
+  },
+  {
+    "id": "milieux-semi-naturels",
+    "name": "Préserver, restaurer et créer des milieux semi-naturels",
+    "definition": "Actions visant à maintenir, restaurer ou créer des éléments végétalisés semi-naturels.",
+    "measures": [
+      "Planter, restaurer et gérer durablement des haies",
+      "Créer et restaurer des prairies, bandes enherbées, bandes tampons et fascines vivantes",
+      "Préserver des bosquets, talus, lisières et autres éléments semi-naturels",
+      "Développer des systèmes agroforestiers",
+      "Mettre en place une gestion extensive de la végétation",
+      "Restaurer les continuités écologiques, notamment la trame verte",
+      "Supprimer les aménagements dégradants pour restaurer le fonctionnement écologique des milieux"
+    ],
+    "environments": [
+      "Milieu agricole",
+      "Milieu montagnard",
+      "Milieu urbain"
+    ]
+  },
+  {
+    "id": "sols",
+    "name": "Gérer et préserver les sols",
+    "definition": "Pratiques visant à maintenir un sol couvert, diversifier les couverts végétaux dans le temps et l’espace, et réduire l’intensité ou la fréquence du travail du sol.",
+    "measures": [
+      "Maintenir un sol couvert",
+      "Diversifier les cultures et les essences forestières",
+      "Adapter les mélanges végétaux aux fonctions recherchées",
+      "Réduire le travail du sol",
+      "Favoriser la régénération naturelle et le maintien de la matière organique"
+    ],
+    "environments": [
+      "Milieu agricole",
+      "Milieu forestier"
+    ]
+  },
+  {
+    "id": "ruissellement-erosion",
+    "name": "Revégétaliser et gérer pour lutter contre le ruissellement et l'érosion",
+    "definition": "Actions visant à ralentir le ruissellement et à limiter l’érosion des sols grâce à la végétation et à de petits aménagements.",
+    "measures": [
+      "Implanter des dispositifs végétalisés antiérosifs",
+      "Végétaliser les zones sensibles",
+      "Mettre en place des aménagements ralentissant les écoulements",
+      "Adapter l’organisation parcellaire pour limiter le ruissellement",
+      "Installer des dispositifs tampons et de rétention",
+      "Assurer une couverture végétale des sols sensibles"
+    ],
+    "environments": [
+      "Milieu agricole",
+      "Milieu forestier",
+      "Milieu montagnard"
+    ]
+  },
+  {
+    "id": "eaux-pluviales",
+    "name": "Assurer une gestion intégrée des eaux pluviales : désimperméabiliser, renaturer, revégétaliser",
+    "definition": "Actions visant à mieux gérer les eaux pluviales par infiltration, stockage temporaire et végétalisation.",
+    "measures": [
+      "Désimperméabiliser les sols urbains",
+      "Créer des dispositifs d’infiltration, tels que des noues et fossés végétalisés",
+      "Aménager des ouvrages de rétention, tels que des bassins paysagers",
+      "Revégétaliser les espaces urbains pour favoriser l’infiltration"
+    ],
+    "environments": [
+      "Milieu urbain"
+    ]
+  }
+]

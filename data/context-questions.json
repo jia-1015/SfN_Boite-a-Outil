@@ -1,0 +1,38 @@
+{
+  "title": "Contextualiser votre SfN",
+  "userNote": "Cette étape vérifie si des activités économiques, des habitants ou d’autres bénéficiaires sont réellement concernés par les impacts potentiels de la SfN. Les caractéristiques du territoire et les mesures d’accompagnement peuvent confirmer, amplifier, réduire ou rendre non pertinent un impact présélectionné.",
+  "additionalNote": "Vous pouvez également ajouter des impacts qui n’étaient pas présélectionnés, mais qui vous semblent pertinents au regard du contexte local ou des spécificités du projet.",
+  "questions": {
+    "2": {
+      "territory": "La mise en œuvre de votre SfN impacte-t-elle directement la production et le revenu de certaines activités — agriculture, forêt ou industrie — du fait, par exemple, d’une acquisition foncière, d’un changement permanent d’usage du sol, ou de contraintes sur l’utilisation des ressources naturelles et les pratiques ?",
+      "accompaniment": "Des indemnités financières sont-elles proposées aux activités économiques concernées afin de compenser les pertes de production ou de revenus attendues ?"
+    },
+    "5": {
+      "territory": "La mise en œuvre de votre SfN demande-t-elle la mobilisation d’entreprises prestataires implantées sur le territoire, par exemple en ingénierie écologique ou en accompagnement au changement de pratiques ?",
+      "accompaniment": "Des conditions particulières sont-elles prévues dans les marchés publics afin d’impliquer en priorité des entreprises locales ?"
+    },
+    "6": {
+      "territory": "Des activités, des zones urbanisées ou des habitants situés à l’aval de la SfN seront-ils moins exposés aux crues ou aux inondations grâce au projet ?"
+    },
+    "7": {
+      "territory": "Des activités économiques ou des habitants bénéficieront-ils de l’atténuation des épisodes de sécheresse, par exemple par la sécurisation de l’eau pour les cultures ou l’alimentation en eau potable, la limitation des pertes de rendement ou la réduction des besoins d’irrigation ?"
+    },
+    "8": {
+      "territory": "Des activités économiques, des espaces publics ou des habitants — notamment les personnes vulnérables — bénéficieront-ils d’une atténuation des chaleurs extrêmes ou des périodes de canicule grâce à la SfN ?"
+    },
+    "11": {
+      "territory": "La SfN conduira-t-elle à une augmentation ou à une sécurisation des superficies ou des productions agricoles, forestières ou piscicoles pour les exploitants du territoire ?",
+      "accompaniment": "Des mesures d’accompagnement ciblant les filières, la transformation ou les circuits de distribution de ces produits sont-elles proposées ?"
+    },
+    "12": {
+      "territory": "La SfN profitera-t-elle aux professionnels du tourisme ou des loisirs, aux habitants ou aux visiteurs, par exemple pour la promenade, les activités sportives, les sorties pédagogiques ou la découverte du territoire ?",
+      "accompaniment": "Des mesures facilitant l’accès ou la fréquentation sont-elles proposées, par exemple une signalisation, des chemins d’accès ou des informations touristiques ?"
+    },
+    "13": {
+      "territory": "Des habitants bénéficieront-ils d’une amélioration du cadre de vie, du paysage, de la santé ou du bien-être grâce à la mise en œuvre de la SfN ?"
+    },
+    "14": {
+      "territory": "Des espaces protégés, des sites naturels emblématiques ou la biodiversité du territoire bénéficieront-ils de la mise en œuvre de la SfN ?"
+    }
+  }
+}

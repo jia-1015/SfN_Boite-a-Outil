@@ -1,0 +1,1349 @@
+{
+  "intro": "Différente méthodes sont proposées pour évaluer l'importance de chaque catégorie d'impact jugée pertinente pour la ou les SfN qui forment votre projet (voir colonne E - cliquez sur chaque case pour accéder à la fiche correspondante permettant d’évaluer l’impact). Des approches méthodologiques alternatives sont présentées pour une catégorie d'impact dans un seul onglet, de une à trois approches méthodologiques de complexité progressive selon les catégories d'impact considéré. Selon les catégories, la complexité croissante se traduit en données et analyses complémentaires demandant plus de temps. Dans d'autres cas, les approches alternatives conduisent à élargir les évaluations, par exemple en prenant en compte des impacts indirects sur les filières associées aux activités bénéficiant directement des services rendus par les fonctionnalités des SfN. 1. Si vous avez peu de temps disponible pour mener à bien votre évaluation, vous appliquerez la proposition méthodologique la plus simple qui vous permettra principalement de décrire l'impact qualitativement et de le contextualiser au regard de caractéristiques du territoire au sein duquel la SfN est mise en oeuvre; 2. Avec un peu plus de temps et données, vous pourrez la compléter avec la deuxième proposition méthodologique... 3. ... voir mettre en oeuvre la troisième proposition méthodologique (si proposée) si celle-ci vous semble nécessaire pour compléter votre évaluation et argumentaire et si vous avez le temps et les ressources disponibles. Pour chaque approche méthodologique proposée dans les onglets des différentes catégories d'impacts, vous trouverez des propositions: 1. D'étapes à suivre 2. De données à mobiliser, fournissant quand ceci est possible les hyperliens vers des bases de données existantes dont vous pourrez directement utiliser les données 3. De résultats obtenus 4. De points de vigilance soulignant certaines limites des analyses proposés ou la nécessité de compléter celles-ci avec des données locales contextualisées Une fois vos analyses menées pour une catégorie d'impacts, vous pourrez présenter vos résultats qualitatifs, quantitatifs et monétarisés dans un tableau déjà intégré dans l'onglet de chaque catégorie d'impact, les éléments de ce tableau étant repris automatiquement dans le tableau de synthèse général de l'Etape 6 - Analyser & représenter. Bien sûr, les approches méthodologiques présentées ne couvrent pas l'ensemble des approches possibles: n'hésitez pas à vous plonger dans la litérature existante abordant un impact qui vous semble essentiel à appronfondir, ou développer votre propre approche au regard de données (de suivi, de modélisation, d'enquêtes auprès d'habitants ou de professionnels...) qui seraient déjà disponibles (collectées par votre structure ou par d'autres organisations partenaires) et qui vous permettront d'enrichir et affiner l'évaluation. Une fois un impact caractérisé et évalué, vous pourrez en synthétiser les résultats clés dans un tableau simple proposé dans chaque onglet. Une fois l'ensemble des impacts pertinents évalués, il vous restera à analyser et présenter les résultats obtenus (voir Etape 6).",
+  "protocols": {
+    "1": {
+      "impactId": 1,
+      "variants": [
+        {
+          "sheet": "Coûts de mise en oeuvre",
+          "title": "Estimer les coûts de mise en œuvre (investissement & gestion) de la SfN",
+          "impactSummary": "Les coûts de mise en œuvre d’un projet de SfN comprennent les coûts d’investissement (études, démarches administratives, acquisition foncière, travaux, équipements et mesures d’accompagnement) et les coûts opérationnels (maintenance, entretien, suivi et, le cas échéant, coûts de changement de pratiques). Ces coûts peuvent être supportés par différents acteurs impliqués dans le projet, tels que le maître d’ouvrage, les gestionnaires ou les exploitants.",
+          "beforeStarting": "Les quatre niveaux proposés correspondent à des ambitions croissantes. Vous pouvez vous arrêter au niveau qui répond à vos besoins ou poursuivre l'analyse pour obtenir une estimation plus complète des coûts de votre projet. Niveau 0: Ce niveau est adapté lorsqu'une première estimation des coûts est nécessaire pour orienter les choix du projet ou alimenter une réflexion préliminaire. Il permet d'obtenir rapidement un ordre de grandeur des coûts à prévoir afin de comparer différentes options d'aménagement. Cette estimation a vocation à être affinée au fur et à mesure de la définition technique du projet. Niveau 1: Ce niveau est adapté lorsque le projet est suffisamment défini pour disposer d'informations techniques et financières plus précises (avant-projet, devis, estimation du maître d'œuvre, dossier de demande d'aide, etc.). Il permet d'établir une estimation détaillée des coûts d'investissement propres au projet en s'appuyant sur les caractéristiques réelles des travaux envisagés. Cette estimation peut être utilisée pour préparer un plan de financement, comparer différentes variantes du projet, instruire une demande de financement ou alimenter une analyse socio-économique plus approfondie. Nieveau 2 : Ce niveau est adapté lorsque le projet est suffisamment défini pour estimer non seulement les coûts d'investissement, mais également les coûts de fonctionnement sur sa durée de vie. Il permet d'évaluer le coût complet de la SFN, en intégrant les dépenses d'exploitation, opérationnel, d'entretien, de suivi et, de renouvellement des équipements. Cette approche est utile pour comparer différentes options opérationnel ou préparer une analyse économique ou financière approfondie. Niveau 3 : Ce niveau permet de comparer les coûts d'une solution fondée sur la nature à ceux d'une solution grise répondant au même objectif. Il consiste à estimer et comparer les coûts d'investissement, les coûts opérationnel, les coûts annuels et le coût complet des deux solutions à partir de valeurs de référence ou de données disponibles. Il constitue une première étape avant la réalisation d'une analyse coûts-bénéfices ou d'une évaluation socio-économique plus approfondie.",
+          "levels": [
+            {
+              "id": 0,
+              "label": "Niveau 0",
+              "complexity": "première estimation",
+              "items": [
+                {
+                  "steps": "Déterminer la dimension du projet: superficie pour les projets surfaciques et linéaire pour les actions linéaires. Par exemple: ha pour les milieu naturels, m2 pour les milieu urbain, m pour les linéaires.",
+                  "data": "Utiliser les données du projet : dossier technique pour l'instruction des demandes d'aide, études préalables etc.",
+                  "results": "Surface ou linéaire du projet (ha, m², m, nombre d'ouvrages, etc.) permettant d'estimer les coûts de mise en œuvre à partir de valeurs de références",
+                  "vigilance": "Si des informations plus précises sur le projet sont disponibles (plans, avant-projet, devis, estimation réalisée par un maître d'œuvre, etc.), il est recommandé de passer au niveau 1 afin d'établir une estimation plus robuste des coûts."
+                },
+                {
+                  "steps": "Identifier des valeurs de référence de coûts adaptées au type de SfN : Recherchez une ou plusieurs valeurs de référence correspondant à la solution fondée sur la nature étudiée. Lorsque plusieurs valeurs sont disponibles, sélectionnez celle qui correspond le mieux au contexte de votre projet ou calculez une valeur moyenne à partir des références jugées les plus pertinentes. Pour chaque valeur retenue, relevez : - le coût unitaire de référence ; - le coût minimum et maximum, lorsqu'ils sont disponibles ; - l'unité (€/ha, €/mètre linéaire, €/ouvrage, etc.) ; - les postes de coûts inclus (investissement seul ou investissement et gestion) ; - la durée de vie de la mesure, lorsqu'elle est renseignée. Selon la nature de votre projet et les données disponibles, recherchez des valeurs correspondant aux coûts d'investissement (travaux de création, restauration ou aménagement) et, lorsqu'elles sont disponibles, aux coûts d'exploitation, opérationnel ou d'entretien (gestion des milieux, suivi, maintenance, etc.). Si votre projet comprend plusieurs postes de dépenses, relevez des valeurs de référence pour chacun d'entre eux. En l'absence de valeur de référence dans la base de données, recherchez des coûts unitaires à partir de guides techniques, de retours d'expérience ou de projets similaires.",
+                  "data": "'Données - Coûts mise en œuvre",
+                  "results": "Une ou plusieurs valeurs unitaires de référence (investissement et/ou gestion) adaptées au projet, documentées par leur source, leur unité, les postes de coûts couverts et, lorsque disponible, leur intervalle de variation (minimum–maximum).",
+                  "vigilance": "Vérifiez que les projets de référence sont comparables au vôtre en termes de type de SFN, d'échelle, de contexte territorial et de nature des travaux. Les coûts unitaires peuvent couvrir des postes de dépenses différents (investissement seul ou investissement et gestion). Vérifiez ce qui est inclus afin d'éviter les doubles comptages ou les omissions. Les références citées dans la colonne « Données à mobiliser » s'appuient sur d'autres études. N'hésitez pas à consulter leur bibliographie pour identifier des références plus proches du contexte de votre projet."
+                },
+                {
+                  "steps": "Calculer le coût d'investissement, opérationnel et total estimé du projet : - Pour les coûts d'investissement: calculer le coût d'investissement du projet en multipliant la dimension du projet (ha, m2, etc.) par la valeur unitaire de coût de référence (€/ha, €/m2 etc). - Pour les coûts opérationnel: calculer le coût opérationnel en multipliant le coût opérationnel de référence (€/ha/an, €/m2/an, etc.) par la dimension du projet (ha, m2, etc.) et par la durée considérée du projet (par exemple 5, 10 ou 20 ans). - Si les coûts opérationnel ne sont pas intégrés, ajouter un ratio opérationnel annuel (par exemple +1 à 5 % du coût d’investissement par an) et ensuite calculer le coût opérationnel en multipliant le coût annuel opérationnel par la durée considérée du projet (par exemple 5, 10 ou 20 ans). - Additionnez les différents postes de coûts identifiés (investissement et gestion) afin d'obtenir une estimation du coût total du projet. Les informations relatives aux coûts de référence mobilisés doivent être renseignées dans le tableau de collecte des coûts, en précisant le type de coût, la catégorie correspondante, la source de la donnée et le niveau de confiance associé.",
+                  "data": "",
+                  "results": "Estimation du coût d'investissement (€) Estimation des coûts opérationnel et d'entretien sur la durée considérée (€) Estimation du coût total du projet (€)",
+                  "vigilance": "Le résultat constitue un ordre de grandeur fondé sur des valeurs de référence. Il ne remplace pas une étude de faisabilité, un chiffrage détaillé ou des devis. Lorsque des coûts minimum et maximum sont disponibles, il est recommandé de présenter une fourchette de coûts afin de refléter les incertitudes associées aux conditions locales du projet. Les coûts opérationnel dépendent de la durée de vie retenue pour le projet. Cette durée doit être explicitée et justifiée. Si un ratio est utilisé pour estimer les coûts opérationnel (par exemple 1 à 5 % du coût d'investissement par an), cette hypothèse doit être clairement indiquée et considérée comme une approximation."
+                },
+                {
+                  "steps": "Calculer le coût annuel : Pour les coûts d'investissement, répartissez le coût total d'investissement (étape c.) sur la durée de vie de la SfN afin d'obtenir un coût annuel moyen. Pour les coûts opérationnel et d'entretien: calculer le coût opérationnel total (étape c.) sur la durée de vie de la SfN afin d'obtenir un coût annuel moyen. Additionnez ensuite les coûts annuels d'investissement et les coûts annuels opérationnel et d'entretien afin d'obtenir le coût annuel moyen du projet.",
+                  "data": "",
+                  "results": "Coût annuel d'investissement (€/an) Coût opérationnel annuel (€/an) Coût annuel total du projet (€/an)",
+                  "vigilance": "L'annualisation suppose que les coûts d'investissement sont répartis uniformément sur la durée de vie retenue. La durée de vie choisie influence directement le coût annuel obtenu ; elle doit être cohérente avec les caractéristiques de la SFN et explicitement justifiée."
+                }
+              ]
+            },
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier les postes de coûts d'investissement du projet. Décrivez les travaux et dépenses nécessaires à la mise en œuvre de la SFN. Pour chaque poste, précisez sa nature, les principaux travaux ou équipements concernés et l'acteur qui supporte le coût. Classez les coûts selon les catégories du tableau de collecte des coûts (conception et planification, administratif, construction et travaux, matériaux et équipements, mesures d'accompagnement, etc.).",
+                  "data": "Dossier technique, avant-projet, plans, dossier de demande d'aide, tableau de collecte des coûts.",
+                  "results": "Liste des postes de coûts d'investissement",
+                  "vigilance": "Toutes les SfN ne nécessitent pas d'investissements importants. Certaines SFN reposent principalement sur des changements de pratiques ou des modalités opérationnel, comme la gestion extensive de prairies, l'adaptation des pratiques agricoles ou forestières, le pâturage, ou la gestion différenciée des espaces verts. Dans ces cas, les coûts d'investissement peuvent être limités, tandis que les coûts d'exploitation, opérationnel et d'entretien représentent la majeure partie du coût du projet. Si votre projet relève de cette catégorie, il est recommandé de poursuivre l'évaluation avec le niveau 2, qui permet d'identifier et d'estimer le coût opérationnel afin d'obtenir une vision plus complète du coût de la SFN. Les coûts d'investissement peuvent être supportés par différents acteurs impliqués dans le projet ; veillez à les recenser de manière exhaustive."
+                },
+                {
+                  "steps": "Estimer le coût de chaque poste d'investissement Pour chaque poste de coût d'investissement identifié à l'étape précédente, estimez le montant correspondant. Lorsque le projet est suffisamment avancé, utilisez en priorité les données propres au projet, tels que les estimations financières figurant dans le dossier technique, les estimations d'experts, les devis d'entreprises. En l'absence de données propres au projet, réaliser une estimation des coûts à partir des caractéristiques techniques du projet en décomposant les travaux en différents postes (p.e. terrassements, plantations, matériaux, ouvrages, équipements, etc.) et en estimant leur coût unitaire.",
+                  "data": "Utilisez en priorité les devis, estimations du maître d'œuvre ou les documents financiers du projet.",
+                  "results": "Estimation détaillée du coût de chaque poste d'investissement documentée par sa source, sa méthode d'estimation et son niveau de confiance (€)",
+                  "vigilance": "Vérifier que l'ensemble des postes de dépenses nécessaires à la mise en œuvre et au fonctionnement de la SfN sont pris en compte."
+                },
+                {
+                  "steps": "Calculer le coût total d'investissement du projet : Pour chaque poste, renseignez les champs proposés dans le tableau (catégorie, description, année, montant, source de la donnée, méthode d'estimation et niveau de confiance). Additionnez les coûts des différents postes d'investissement identifiés. Présentez, le détail par catégorie de dépenses ainsi que le coût total d'investissement du projet.",
+                  "data": "Résultats des étapes précédentes, tableau de collecte des coûts",
+                  "results": "Coût total d'investissement du projet, avec le détail par poste (€)",
+                  "vigilance": "Ce niveau ne prend en compte que les coûts d'investissement. Les coûts d'exploitation, d'entretien, de suivi et de renouvellement seront intégrés au niveau 2 afin d'estimer le coût complet du projet."
+                },
+                {
+                  "steps": "Calculer le coût annuel : Répartissez le coût total d'investissement sur la durée de vie de la SfN afin d'obtenir un coût annuel moyen.",
+                  "data": "",
+                  "results": "Coût annuel d'investissement (€/an)",
+                  "vigilance": "L'annualisation suppose que les coûts d'investissement sont répartis uniformément sur la durée de vie retenue. La durée de vie choisie influence directement le coût annuel obtenu ; elle doit être cohérente avec les caractéristiques de la SFN et explicitement justifiée."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Identifier les postes de coûts opérationnel du projet. Décrivez comment la SFN devra être gérée une fois mise en place : - quelles interventions seront nécessaires ; - à quelle fréquence elles devront être réalisées ; - qui sera responsable de sa gestion. Classez les coûts selon les catégories du tableau de collecte (changement de pratique, exploitation et gestion courante, maintenance et entretien).",
+                  "data": "Plan opérationnel, plan de suivi, contrats d'entretien, échanges avec les gestionnaires.",
+                  "results": "Liste des postes de coûts opérationnel, classés par catégorie",
+                  "vigilance": "Les coûts opérationnel peuvent être supportés par plusieurs acteurs (gestionnaires, exploitants, collectivités, partenaires, etc.). Veillez à recenser l'ensemble des coûts nécessaires au bon fonctionnement de la SFN."
+                },
+                {
+                  "steps": "Pour chaque poste estimez le montant annuel: Pour chaque intervention nécessaire à la gestion de la SFN, rechercher un coût unitaire adapté Utilisez en priorité des données propres au projet : - contrats opérationnel ou d'entretien ; - devis ; - estimations des gestionnaires ou exploitants. Pour obtenir un coût annuel: une fois le coût unitaire identifié, le multiplier par la fréquence prévue par année.",
+                  "data": "Plan opérationnel, plan de suivi, contrats d'entretien, échanges avec les gestionnaires.",
+                  "results": "Coût opérationnel par poste (€/an)",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Définir la durée de vie ou l'horizon d'analyse du projet : Choisissez la période sur laquelle les coûts opérationnel seront estimés (par exemple 10, 20, 30 ou 50 ans).",
+                  "data": "",
+                  "results": "",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Calculer le coût opérationnel total : Multipliez les coûts annuels par l'horizon temporel retenu pour l'analyse (étape c) afin d'estimer le coût total opérationnel et d'entretien sur la durée du projet. Additionnez ensuite l'ensemble des postes afin d'obtenir le coût opérationnel total du projet. Pour chaque poste, renseignez les champs proposés dans le tableau de coûts (catégorie, description, année, montant, source de la donnée, méthode d'estimation et niveau de confiance).",
+                  "data": "Résultats des étapes précédentes, tableau de collecte des coûts.",
+                  "results": "Estimation du coût opérationnel par poste et coût opérationnel total du projet (€)",
+                  "vigilance": "Les coûts de financement (intérêts d'emprunt, frais financiers, coût du capital, etc.) ne sont pas pris en compte dans ce protocole, qui vise à estimer le coût économique de mise en œuvre de la SFN. Ils peuvent néanmoins constituer une information importante pour apprécier la faisabilité financière du projet et le reste à charge du maître d'ouvrage. Si ces aspects sont déterminants pour votre projet, ils peuvent faire l'objet d'une analyse financière complémentaire."
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Déterminer les caractéristiques dimensionnelles de la solution grise : Déterminez les dimensions de la solution grise nécessaires pour assurer le niveau de service retenu (par exemple surface, volume de stockage, longueur d'ouvrage, capacité de traitement, débit, nombre d'ouvrages, etc.). Ces dimensions serviront de base au calcul des coûts à partir de valeurs de référence.",
+                  "data": "Études de faisabilité, scénarios techniques, avis d'experts.",
+                  "results": "Surface, volume, linéaire, capacité ou autre unité de dimensionnement de la solution grise.",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Identifier des valeurs de référence de coûts adaptées de la solution identifié : Recherchez des valeurs de référence issues de guides techniques, de bases de coûts ou de projets comparables. Relevez le coût unitaire, les postes de dépenses inclus, la durée de vie et, lorsque disponibles, les coûts d'exploitation, de maintenance et de renouvellement.",
+                  "data": "Pour certaines catégories de SFN, des rapports avec des données de coûts pour les solutions grises existent. Dans les autres cas, ces données doivent être recherchées par l'utilisateur.Référentiels de coûts, par exemple l'étude sur le coût de protection contre les inondation fluviales: https://www.ecologie.gouv.fr/sites/default/files/documents/AMC%20-%20Referentiel%20couts%20de%20protection%20des%20inondations%20fluviales_0.pdf",
+                  "results": "",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Calculer le coût d'investissement, opérationnel et total estimé de la solution grise : Calculer le coût d'investissement, opérationnel et total estimé du projet : - Pour les coûts d'investissement: calculer le coût d'investissement du projet en multipliant la dimension du projet (ha, m2, etc.) par la valeur unitaire de coût de référence (€/ha, €/m2 etc). - Pour les coûts opérationnel: calculer le coût opérationnel en multipliant le coût opérationnel de référence (€/ha/an, €/m2/an, etc.) par la dimension du projet (ha, m2, etc.) et par la durée considérée du projet (par exemple 5, 10 ou 20 ans). - Si les coûts opérationnel ne sont pas intégrés, ajouter un ratio opérationnel annuel (par exemple +1 à 5 % du coût d’investissement par an) et ensuite calculer le coût opérationnel en multipliant le coût annuel opérationnel par la durée considérée du projet (par exemple 5, 10 ou 20 ans). - Additionnez les différents postes de coûts identifiés (investissement et gestion) afin d'obtenir une estimation du coût total du projet. Les informations relatives aux coûts de référence mobilisés doivent être renseignées dans le tableau de collecte des coûts, en précisant le type de coût, la catégorie correspondante, la source de la donnée et le niveau de confiance associé.",
+                  "data": "",
+                  "results": "Estimation du coût d'investissement (€) Estimation des coûts opérationnel et d'entretien sur la durée considérée (€) Estimation du coût total du projet (€)",
+                  "vigilance": "Le résultat constitue un ordre de grandeur fondé sur des valeurs de référence. Il ne remplace pas une étude de faisabilité, un chiffrage détaillé ou des devis. Lorsque des coûts minimum et maximum sont disponibles, il est recommandé de présenter une fourchette de coûts afin de refléter les incertitudes associées aux conditions locales du projet. Les coûts opérationnel dépendent de la durée de vie retenue pour le projet. Cette durée doit être explicitée et justifiée. Si un ratio est utilisé pour estimer les coûts opérationnel (par exemple 1 à 5 % du coût d'investissement par an), cette hypothèse doit être clairement indiquée et considérée comme une approximation."
+                },
+                {
+                  "steps": "Calculer le coût annuel de la solution grise: Pour les coûts d'investissement, répartissez le coût total d'investissement sur la durée de vie de la SfN afin d'obtenir un coût annuel moyen. Pour les coûts opérationnel et d'entretien: les valeurs de référence sont déjà exprimées en coût annuel (par exemple €/ha/an ou €/m/an), utilisez directement ces valeurs. Additionnez ensuite les coûts annuels d'investissement et les coûts annuels opérationnel et d'entretien afin d'obtenir le coût annuel moyen du projet.",
+                  "data": "",
+                  "results": "Coût annuel d'investissement (€/an) Coût opérationnel annuel (€/an) Coût annuel total du projet (€/an)",
+                  "vigilance": "L'annualisation suppose que les coûts d'investissement sont répartis uniformément sur la durée de vie retenue. La durée de vie choisie influence directement le coût annuel obtenu ; elle doit être cohérente avec les caractéristiques de la SFN et explicitement justifiée."
+                },
+                {
+                  "steps": "Comparer les coûts de la solution grise avec les coûts de la SfN : Comparez les coûts d'investissement, les coûts opérationnel, le coût total et le coût annuel moyen de la SFN (niveaux 1 et 2) et de la solution grise. Identifiez les principaux postes expliquant les écarts observés.",
+                  "data": "",
+                  "results": "Tableau comparatif des coûts d'investissement, des coûts opérationnel, des coûts totaux et des coûts annuels des deux solutions ; différences absolues (€) et relatives (%).",
+                  "vigilance": ""
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://donnees-documents.eau-loire-bretagne.fr/files/live/mounts/midas/Donnees-et-documents/Guides%20et%20%C3%A9tudes/SFN/RAP_Coevrons_SFN.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://www.eaurmc.fr/upload/docs/application/pdf/2017-05/2014-etude-c-restau-hydromorpho.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "impactId": 2,
+      "variants": [
+        {
+          "sheet": "Perte d'activité économique",
+          "title": "Estimer les pertes d'activité économique résultant directement de la mise en œuvre de la SfN",
+          "impactSummary": "La mise en place de SfN peut conduire à un changement d'utilisation du sol, des espaces précédemment exploités (par des agriculteurs ou des exploitants forestiers) étant utilisés pour mettre en place la SfN (par exemple, extension d'une zone humide ou abandon de terrains agricoles le long de cours d'eau). En milieu urbain, la mise en place de SfN peut conduire à la perte de valeur de terrains précédemment constructibles ou pouvant trouver d'autres usages à forte valeur économique (pa exemple, infrastructures de transport). Ceci entraine donc une perte économique pour les exploitants concernés ou pour les propriétaires de terrains impactés par par la mise en œuvre de la SfN.",
+          "beforeStarting": "Cette évaluation est proposée selon trois niveaux de complexité. Commencez par le niveau 1, puis poursuivez avec les niveaux 2 et 3 si les enjeux, les données disponibles et les ressources le permettent. Ce protocole concerne les pertes d'activités économiques liées à un changement permanent d'usage des sols induit par la mise en œuvre d'une SfN. Il ne couvre pas les impacts temporaires liés aux travaux, qui sont évalués dans le protocole « Impacts négatifs générés par des travaux ». - Niveau 1 : estimez les pertes d'activité économique directement liées à la mise en œuvre de la SfN. - Niveau 2 : évaluez dans quelle mesure ces pertes peuvent affecter les filières concernées, en tenant compte des débouchés, de la transformation et de leur ancrage territorial. - Niveau 3 : analysez les effets économiques indirects sur la filière et le territoire, uniquement si les pertes concernent une part importante d'une filière ou une activité économique structurante.",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier les surfaces impactées par le projet et caractériser l’utilisations (agricole, routes, forêt, chemins des terrains en fonction des zones agricoles, forestières, urbaines qui seront impactés par la mise en œuvre de la SfN.",
+                  "data": "Utilisez les documents d'urbanisme (PLU, PLUi) pour connaître les utilisations prévues des terrains : ces données sont disponibles sur https://www.geoportail-urbanisme.gouv.fr/ Dans l'onglet \"recherche avancée\", renseignez dans \"Territoire\" le territoire souhaité (commune, département...). . Une fois le PLU du territoire souhaité trouvé, rendez-vous dans \"Liste des pièces écrites\". Les PLU et PLUI sont divisés en plusieurs fichiers. Consultez en particulier les orientations d'aménagement et de programmation (OAP) et le rapport de présentation.",
+                  "results": "Description qualitative des pertes économiques attendues (productions , développement urbain...)",
+                  "vigilance": "Veiller à distinguer les activités actuellement présentes des usages futurs envisagés (étape c)."
+                },
+                {
+                  "steps": "Caractériser leur importance: - Pour les zones agricoles et forestières: nombre d'hectares concernées par la mise en place de la SfN, nombre d'agriculteurs/exploitants forestier concernés, production moyenne par hectare, chiffre d'affaires (production x prix des produits sur le marché) à partir de données régionales/disponibles dans des bases de données agricoles/forestières existantes - Pour les zones urbaines: identifier la classification de la zone du PLU/PLUi concerné et collecter des informations sur le prix du foncier",
+                  "data": "Utilisez le site https://www.le-prix-des-terres.fr/ pour consulter la valeur vénale des terres agricoles ou forestières (prix des transactions de foncier). Pour la production forestière: consultez AGRESTE (https://agreste.agriculture.gouv.fr/agreste-web/disaron/!searchurl/searchUiid/search/, dans l'onglet \"Chiffres et Analyses\", dans \"Voir plus de thèmes\", cherchez le thème \"forêt, bois, industrie\", puis \"récolte de bois\", notamment le document \"Bois et sciages. Récolte et production en France et dans l'Union européenne\", ou les documents par régions. Pour la valeur de la production agricole, sur la même page que précédemment, cherchez le thème \"économie agricole et agro-alimentaire\", puis \"prix et coûts de production\". Pour les zones urbaines, la classification des zones est disponible au début du rapport de présentation du PLU. Pour les données forestières, les données sur le prix du bois en 2025 sont disponibles sur https://observatoire.franceboisforet.com/wp-content/uploads/2014/06/FBF_PRIX_PIED_2026.pdf, issus du site : https://observatoire.franceboisforet.com/ La classification des zones du PLU/PLUi est donnée dans le rapport de présentation et la carte des zones dans le règlement graphique.",
+                  "results": "Superficie (ha) - pour la ou les productions végétales concernées, nombre d'exploitants (agricoles, forestiers…), production (tonnes/an), chiffre d'affaires (€/an)",
+                  "vigilance": "Les données de production disponibles dans les bases nationales ou régionales correspondent souvent à des moyennes et peuvent différer de la situation locale. Les prix agricoles et forestiers fluctuent fortement selon les années et les marchés."
+                },
+                {
+                  "steps": "Décrire les opportunités futures susceptibles d'être affectées par la mise en œuvre de la SfN.",
+                  "data": "Voir les PLU selon la même méthode qu'à l'étape a.",
+                  "results": "Description qualitative des projets d'urbanisation, d'infrastructures ou de développement économique potentiellement concernés.",
+                  "vigilance": "Les projets d'urbanisation, d'aménagement ou de développement économique mentionnés dans les documents de planification ne se réalisent pas systématiquement. Les pertes associées à ces usages futurs sont donc plus incertaines que celles relatives à des activités existantes."
+                },
+                {
+                  "steps": "Apprécier l'importance rélative des surfaces concernées. Contextualiser à partir de données des superficies agricoles et agriculteurs disponibles dans les bases de données territoriales. Calculer la surface/production/chiffre d'affaires concernée en pourcentage de la surface/production/chiffre d'affaires communale.",
+                  "data": "Utilisez l'onglet \"cultures par communes\" du site Agreste : https://agreste.agriculture.gouv.fr/agreste-web/disaron/G_1013/detail/",
+                  "results": "% exploitation concernée, % production concernée, % chiffre d'affaires concernée",
+                  "vigilance": ""
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "À partir des activités économiques identifiés au niveau 1, identifiez les filières et débouchés susceptibles d'être concernés par les modifications de production induites par la mise en œuvre de la SfN. Pour chaque production concernée, précisez les principaux débouchés (coopérative, transformateur, scierie, chaufferie biomasse, vente directe, etc.), leur localisation et l'existence éventuelle de signes de qualité ou d'origine (AOP, IGP, Label Rouge, Agriculture biologique, etc.).",
+                  "data": "Collecte de données sur le territoire Pour obtenir la liste des entreprises susceptibles d'être impactées par la SfN, rendez vous sur le site https://annuaire-entreprises.data.gouv.fr/ , cliquez sur \"Effectuer une recherche avancée\", et renseignez la zone géographique de votre choix. Les résultats apparaissent sous forme de liste, vous pouvez également les afficher sur une carte grâce à la fonction \"Afficher sur une carte\", située en haut à droite des résultats. Dans le bandeau en haut de la page, vous pouvez également affiner les résultats, en appliquant des filtres sur le type de structure, la situation administrative... Pour les AOP et IGP : choisissez votre région ou département sur la carte : https://www.inao.gouv.fr/carte-france-ig. Une fois cela fait, précisez la commune si nécessaire pour obtenir la liste des produits bénéficiant de lables AOP ou IGP sur le territoire. Avec la base de données : https://www.data.gouv.fr/datasets/referentiel-des-produits-sous-signe-officiel-didentification-de-la-qualite-et-de-lorigine-siqo, vous trouverez la liste des produits enregistrés sous Signe Officiel d'Identification de la Qualité et de l'Origine (SIQO).",
+                  "results": "Description des filières potentiellement concernées, de leur ancrage territorial (local, régional, national) et de leur dépendance éventuelle à une production locale ou sous signe de qualité.",
+                  "vigilance": "Les impacts économiques territoriaux dépendent non seulement des volumes de production concernés, mais également de l'organisation de la filière. Une même baisse de production peut avoir des conséquences différentes selon que la transformation est réalisée localement ou hors du territoire, et selon que la production alimente ou non une filière sous signe de qualité ou d'origine."
+                },
+                {
+                  "steps": "Evaluer l'importance de la perte de production pour la ou les filières concernées. Pour chaque filière identifiée à l'étape précédente, estimez la part de la production qui pourrait être affectée. Comparez les volumes de production concernés aux volumes totales produits par la filière. En absence de données : appréciation qualitative de la sensibilité de la filière : faible, modérée ou forte",
+                  "data": "Collecte de données à partir de rapports sur les filières/AOP ou entretiens avec responsables des filières/industries de transformation",
+                  "results": "Volume de production concerné (tonnes/an, m³/an, litres/an, etc.) % des volumes ou achats de produits transformés par la ou les filières concernées Appréciation qualitative de la sensibilité de la filière : faible, modérée ou forte.",
+                  "vigilance": "Une diminution de production au niveau d'une exploitation ne se traduit pas nécessairement par une diminution équivalente de l'activité de la filière. Les acteurs économiques peuvent s'approvisionner auprès d'autres producteurs ou territoires. Les filières locales, les circuits courts et les productions sous signe de qualité ou d'origine (AOP, IGP, etc.) sont généralement moins substituables et peuvent donc être plus sensibles à une baisse de production locale."
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Estimer les effets économiques indirects sur la filière et le territoire",
+                  "data": "",
+                  "results": "",
+                  "vigilance": "Cette analyse n'est généralement justifiée que si les pertes ou modifications de production représentent une part significative des approvisionnements d'une filière ou concernent une activité économique structurante pour le territoire. Elle requiert des données spécifiques et des compétences en analyse économique."
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://symbhi.fr/wp-content/uploads/2020/06/Accord-cadre-Annexe-1-Protocole-Crues_compressed.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://portail.documentation.developpement-durable.gouv.fr/exl-php/document-affiche/mte_recherche_avancee/OUVRE_DOC/7229?fic=mpdouv00262677.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "impactId": 3,
+      "variants": [
+        {
+          "sheet": "Impacts négatifs - travaux",
+          "title": "Estimer les impacts (externalités) négatifs liés à la mise en œuvre des solutions et aux services écosystémiques - travaux",
+          "impactSummary": "Impacts environnementaux temporaires générés par les travaux nécessaires à la mise en œuvre de la SfN (émissions de gaz à effet de serre, bruit, trafic, poussières, déchets, consommation de ressources, risques de pollution, etc.), hors pertes d'activité économique (pour ces derniers, se référerer à l'onglet précédent).",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Evaluer l'intensité de la nuisance Pour chaque externalité identifiée, apprécier son étendue géographique (locale, territoriale), son intensité (faible, moyenne, forte), en s'appuyant par exemple sur la durée des travaux, la longueur de voirie perturbée, le nombre de jours de circulation perturbée, le nombre de poids lourds par jour, les accidents éventuels liés à la nuisance…",
+                  "data": "Nature des travaux, durée du chantier, localisation, activités et usages présents à proximité.",
+                  "results": "Tableau de qualification des externalités permettant d'identifier les impacts les plus significatifs.",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Identifier des solutions à mettre en place contre la nuisance Pour chaque externalité relevée précédemment, identifier des solutions possibles pour supprimer ou atténuer leur intensité. Pour chacune, apprécier la faisabilité de leur mise en place (facile, moyenne, difficile).",
+                  "data": "Nature des travaux, durée du chantier, localisation, activités et usages présents à proximité.",
+                  "results": "Liste des solutions potentielles pour atténuer les nuisances et évaluations de leurs difficultés de mise en place.",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Les étapes à suivre",
+                  "data": "Les données à mobiliser",
+                  "results": "Les résultats obtenus",
+                  "vigilance": "Points de vigilance"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Les étapes à suivre",
+                  "data": "Les données à mobiliser",
+                  "results": "Les résultats obtenus",
+                  "vigilance": "Points de vigilance"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": ".",
+                  "data": ".",
+                  "results": ".",
+                  "vigilance": "."
+                },
+                {
+                  "steps": "Illustrations",
+                  "data": "https://www.g-eau.fr/images/icagenda/seminaires-precos/present-precos/Prsentation_Hrivaux_Le_Coent_2021_02_11.pdf",
+                  "results": "",
+                  "vigilance": ""
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Documents guides",
+              "url": "https://artificialisation.developpement-durable.gouv.fr/sites/artificialisation/files/fichiers/2025/08/ZAN_FASCICULE_1_44P_v20250801.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "impactId": 4,
+      "variants": [
+        {
+          "sheet": "Impacts négatifs - ecosystème",
+          "title": "Estimer les impacts (externalités) négatifs liés à la mise en œuvre des solutions et aux services écosystémiques - services écosystémiques",
+          "impactSummary": "Impacts négatifs potentiels de la SfN sur les services écosystémiques, résultant des modifications des milieux, des usages ou des modes de gestion induites par sa mise en œuvre",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier et caractériser les bénéficiaires susceptibles d'être affecté. Pour chaque impact négatif: - Identifier la population/activité économique impactée. Cette identification peut être réalisée à partir des usages observés sur le site et des activités économiques présentes (riverains, usagers récréatifs ...). - Décrire l'importance potentielle pour les bénéfiaires en tenant compte du nombre de bénéficiaires concernés et de l'importance de l'impacts pour les bénéfiaires.",
+                  "data": "Identifier les activités économiques potentiellement impactées : utilisez le rapport sur les coûts économiques des invasions biologiques en France : https://invacost.fr/wp-content/uploads/2021/08/RapportCoutsFrance.pdf et la base de données InvaCost : en particulier la proportion des coûts de gestions et de dommages entre les différents secteurs d’activités. Les SAGE comprennent des éléments permettant de caractériser les activités touchées par la prolifération des espèces (pêche, sports nautique etc.). Voir notamment : https://www.gesteau.fr/sites/default/files/gesteau/content_files/document/SAGE_Adour_amont_Etude_2018_08_pee.pdf Caractérisez l'importance de ces secteurs sur votre territoire : consultez par exemple le SDAGE du bassin Adour-Garonne, partie 2 https://www.occitanie.developpement-durable.gouv.fr/IMG/pdf/5512_sdage_etat_des_lieux_bd.pdf",
+                  "results": "Identification des catégories de bénéficiaires potentiellement affectées Qualification de l'importance potentielle de l'impact pour les bénéficiaires",
+                  "vigilance": "Lorsqu'un impact est jugé élevé, il est recommandé de poursuivre l'analyse au niveau 2. Celui-ce permet de réaliser caractériser son ampleur à l'aide d'indicateurs et de données quantitatives."
+                },
+                {
+                  "steps": "Les étapes à suivre",
+                  "data": "Les données à mobiliser",
+                  "results": "Les résultats obtenus",
+                  "vigilance": "Points de vigilance"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Quantifier les bénéficiaires potentiellement affectés Après avoir identifié les catégories de bénéficiaires au niveau 1, estimer leur nombre ou leur importance. Par example: : - Nombre annuel de visiteurs ; - Nombre de riverains situés à proximité ; - Nombre d'équipements récréatifs concernés.",
+                  "data": "Utilisez les SAGE et SDAGE de votre région pour quantifier les bénéficiaires potentiels : sur le site https://www.gesteau.fr/, sous l'onglet SAGE ou SDAGE, cherchez : \"consultez les SDAGE\" (ou SAGE). Cherchez le document qui correspond à votre territoire, puis dans l'onglet \"documents\" cherchez le \"diagnostic : état des lieux\" puis \"activités économiques\" ou \"activités de loisirs\" pour quantifier les bénéficiaires.",
+                  "results": "Nombre estimé de bénéficiaires concernés",
+                  "vigilance": "Dans l'onglet \"documents\", regardez également la sous section \"études et rapports\" qui contient parfois des documents comme \"étude socio-économique du bassin versant\" ou \"schéma de cohérence des activités sportives et de loisirs\", qui peuvent vous aider à quantifier les bénéficiaires."
+                },
+                {
+                  "steps": "Les étapes à suivre",
+                  "data": "Les données à mobiliser",
+                  "results": "Les résultats obtenus",
+                  "vigilance": "Points de vigilance"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://www.g-eau.fr/images/icagenda/seminaires-precos/present-precos/Prsentation_Hrivaux_Le_Coent_2021_02_11.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://www.gesteau.fr/sites/default/files/gesteau/content_files/document/SAGE_Adour_amont_Etude_2018_08_pee.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "impactId": 5,
+      "variants": [
+        {
+          "sheet": "Retombées socio-économiques",
+          "title": "Appréhender les retombées économiques liées à la mise en œuvre de la SfN",
+          "impactSummary": "Les travaux de mise en oeuvre d'une SfN ont une incidence direct sur le développement économique de votre territoire: ces travaux mobilisent potentiellement des entreprises locales (création d'emplois non délocalisables), achètent des fournitures à des entreprises et revendeurs locaux et leurs salariés dépensent une partie de leur salaire pour leurs achats de biens et services que ce soit pendant la durée du chantier (si les salariés mobilisés sur les chantiers n'habitent pas sur le territoire) voir au delà (pour les salariés résidents). Evaluer les retombées socio-économiques est généralement fait pour des chantiers déjà menés une fois les travaux terminés, l'évaluation des retombées indirectes ou induites (liés aux achats de fournitures et dépenses des salariés sur ou hors du territoire) n'étant pertinente que pour des chantiers de grande ampleur.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Les étapes à suivre",
+                  "data": "Les données à mobiliser",
+                  "results": "Les résultats obtenus",
+                  "vigilance": "Points de vigilance"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Identifier la provenance des ressources mobilisées (part provenant du territoire, part provenant hors du territoire)",
+                  "data": "A partir du siège sociale de l'entreprise, d'entretiens avec les chefs d'entreprises, des noms de fournisseurs de matériaux",
+                  "results": "Part des resources mobilisés issues du territoire",
+                  "vigilance": "Pertinent pour des évaluations ex-post où les entreprises impliquées et les durées des travaux sont connus."
+                },
+                {
+                  "steps": "Décrire qualitativement les retombées économiques indirectes (achat de fournitures/matériaux) et induites (liés aux dépenses de salariés impliqués dans les chantiers) pour le territoire",
+                  "data": "A partir de données de branche à des échelles régionales",
+                  "results": "Explicitation des retombées indirectes et induites pour le territoire concerné",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Les étapes à suivre",
+                  "data": "Les données à mobiliser",
+                  "results": "Les résultats obtenus",
+                  "vigilance": "Points de vigilance"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://www.cerc-actu.com/wp-content/uploads/2023/05/Empreinte-socio-economique-IMC-Pays-de-la-Loire.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://veille-eau.com/files/pdf/evaluation-socioeconomique-solutions-fondees-sur-la-nature.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "impactId": 6,
+      "variants": [
+        {
+          "sheet": "Atténuation des inondations",
+          "title": "Apréhender la réduction du risque et des dommages liés aux inondations suite à la mise en oeuvre de la SfN",
+          "impactSummary": "La réduction du risque et des dommages liés aux inondations à des conséquences positives sur les habitants de la zone inondable (baisse de la mortalité, morbidité etc.) ainsi que sur les entreprises (maintien du chiffre d’affaires dû à des jours de fermeture évités etc.), l’agriculture, les collectivités (fermeture d’établissements publics évitée etc.) et les infrastructures (réseau de transport etc.).",
+          "beforeStarting": "Les solutions fondées sur la nature peuvent contribuer à réduire le risque d'inondation en diminuant les débits de pointe, les hauteurs d'eau, les surfaces ou la durée des inondations. Ces effets hydrauliques réduisent l'exposition des personnes, des bâtiments, des activités économiques, des équipements publics, des infrastructures et des terres agricoles aux crues, et se traduisent par une diminution des dommages attendus. La réduction du risque d'inondation a ainsi des conséquences positives pour les habitants des zones exposées (réduction de la mortalité, de la morbidité, des évacuations, des dommages aux logements, etc.), les entreprises (maintien de l'activité économique, jours de fermeture évités, réduction des dommages aux bâtiments et aux équipements), les exploitations agricoles, les collectivités (interruption des services publics évitée, limitation des coûts de remise en état) ainsi que les infrastructures et réseaux (réduction des dommages et des interruptions de service). L'objectif de ce protocole est d'évaluer ces bénéfices en estimant les dommages évités, définis comme la différence entre les dommages attendus en l'absence de projet et ceux attendus après la mise en œuvre de la SFN.",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Vérifier si votre territoire se trouve dans un Territoire à Risque Important d'inondation (TRI) soulignant le caractère stratégique de votre projet",
+                  "data": "Le fichier \"arrêté de la liste des TRI du 24/10/2018\" est disponible sur : https://www.occitanie.developpement-durable.gouv.fr/une-definition-des-priorites-les-territoires-a-a24580.html",
+                  "results": "Votre territoire sur trouve dans un TRI",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Identifier les principales activités à risque (évènements passés, entretiens d’acteurs).",
+                  "data": "Sur le site https://www.ccr.fr/portail-catastrophes-naturelles/ Dans l'onglet \"s'informer sur\", choisissez \"les évènements\" et \"inondations\", puis le département et l'année. Cliquez sur un évènement qui concerne votre département ou un département proche. Utilisez les onglets \"dommages constatés\" (et \"coût de l'évènement\" si disponible) pour qualifier les activités à risque.",
+                  "results": "Ex : nombre habitations inondées, nombre de décès, nombre de routes et infrastructures inutilisables",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Estimer le coût des dommages pour la commune.",
+                  "data": "Sur le site https://www.georisques.gouv.fr/observatoire-national-des-risques-naturels, utilisez l'onglet \"consultez les indicateurs sur les dommages\" et téléchargez le fichier \"Coût moyen par commune des sinistres inondation sur la période 1995-2021\", puis recherchez votre commune. Données socio-économiques de votre territoire : portail/projet de territoire de la ComCom, site INSEE statistiques locales: https://statistiques-locales.insee.fr/#c=home et https://www.observatoire-des-territoires.gouv.fr/outils/cartographie-interactive/#c=home",
+                  "results": "Coût moyen de l'inondation pour la commune (1995-2021)",
+                  "vigilance": ""
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Vérifier si votre territoire se trouve dans un Territoire à Risque Important d'inondation (TRI) soulignant le caractère stratégique de votre projet",
+                  "data": "Le fichier \"arrêté de la liste des TRI du 24/10/2018\" est disponible sur : https://www.occitanie.developpement-durable.gouv.fr/une-definition-des-priorites-les-territoires-a-a24580.html",
+                  "results": "Votre territoire est situé dans un TRI",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Identifier si votre territoire a fait l’objet d’un classement «catastrophe naturelle » pour les inondations au cours des 10 dernières années",
+                  "data": "Site de la Caisse Centrale de Réassurance https://www.ccr.fr/portail-catastrophes-naturelles/ cherchez l'onglet \"arrêtés\" en haut à droite. Descendez vers \"listes des arrêtés\" et renseignez les informations demandées. Multiplier ce nombre par le coût moyen d'une reconaissance CatNaT : 350 000€ en moyenne sur les 10 dernières années (voir ici: https://www.ccr.fr/la-sinistralite-en-chiffres/).",
+                  "results": "Nombre d'arrêtés au journal officiel pour inondations et coût moyen d'une reconaissance CatNat pour innondation",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Collecter des informations complémentaires permettant de renforcer la caractérisation socio-économiquement des dommages (prix de l’immobilier, revenu agricole par ha, chiffre d’affaire annuel des entreprises concernées…) Estimer la part de ces dommages qui pourraient être évitée suite à la mise en œuvre de votre projet",
+                  "data": "Pour le chiffre d'affaires des entreprises, utilisez l'annuaire des entreprises : https://annuaire-entreprises.data.gouv.fr/. Pour le prix de l'immobilier, consultez le site de la DREAL, thématique \"logement\" : (ex. https://dreal.statistiques.developpement-durable.gouv.fr/eptb/2024/nouvelle_aquitaine/index.html). Pour le revenu agricole, consultez le site de la DRAAF de votre territoire, onglet \"données\" puis \"thématique\" et \"économie agricole\" puis \"Réseau d’information comptable agricole (Rica)\"",
+                  "results": "Chiffre d'affaires annuel des entreprises, prix des logements, revenus agricoles",
+                  "vigilance": ""
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Vérifiez si votre territoire se trouve dans un Territoire à Risque Important d'inondation (TRI). Si votre territoire est un TRI : utilisez les associées à votre TRI.",
+                  "data": "Sur https://www.nouvelle-aquitaine.developpement-durable.gouv.fr/les-strategies-locales-de-gestion-des-risques-a602.html télécharger l'arrêté d'approbation de votre territoire, qui donne dans son article 2 les sites ou télécharger la SLGRI. Une fois cette étape franchie, les activités à risques se trouvent dans la partie \"diagnostic de territoire\" Si votre territoire est hors TRI, utilisez le PAPI de votre territoire (partie diagnostic de territoire). Si votre territoire n'a pas de PAPI, utilisez les données historiques sur les évênements passés : https://www.ccr.fr/portail-catastrophes-naturelles/ ou l'annexe de l'évaluation préliminaire des risques inondations du bassin Adour-Garonne (partie \"impacts\") : https://www.occitanie.developpement durable.gouv.fr/IMG/pdf/epri_2024_cab.pdf Pour les TRI, la part relative des emplois par domaine d'activité est donnée dans la SLGRI.",
+                  "results": "Liste des activités susceptibles d'être impactées",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Si votre territoire est hors TRI, utilisez le PAPI de votre territoire (partie diagnostic de territoire).",
+                  "data": "La liste des PAPI se trouve sur le site de la DREAL, mais les pdf ne sont pas centralisés.",
+                  "results": "Nombre d'entreprises impactées",
+                  "vigilance": ""
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations :",
+              "url": "https://www.siba-bassin-arcachon.fr/sites/default/files/2024-03/slgri-document-final_oct-2017_0.pdf"
+            },
+            {
+              "label": "Documents guides :",
+              "url": "https://inondations-agglo-toulousaine.fr/dossier-papi-complet/"
+            }
+          ]
+        },
+        {
+          "sheet": "Atténuation des inondations (2)",
+          "title": "Apréhender la réduction du risque et des dommages liés aux inondations suite à la mise en oeuvre de la SfN",
+          "impactSummary": "La réduction du risque et des dommages liés aux inondations à des conséquences positives sur les habitants de la zone inondable (baisse de la mortalité, morbidité etc.) ainsi que sur les entreprises (maintien du chiffre d’affaires dû à des jours de fermeture évités etc.), l’agriculture, les collectivités (fermeture d’établissements publics évitée etc.) et les infrastructures (réseau de transport etc.).",
+          "beforeStarting": "Les solutions fondées sur la nature peuvent contribuer à réduire le risque d'inondation en diminuant les débits de pointe, les hauteurs d'eau, les surfaces ou la durée des inondations. Ces effets hydrauliques réduisent l'exposition des personnes, des bâtiments, des activités économiques, des équipements publics, des infrastructures et des terres agricoles aux crues, et se traduisent par une diminution des dommages attendus. La réduction du risque d'inondation a ainsi des conséquences positives pour les habitants des zones exposées (réduction de la mortalité, de la morbidité, des évacuations, des dommages aux logements, etc.), les entreprises (maintien de l'activité économique, jours de fermeture évités, réduction des dommages aux bâtiments et aux équipements), les exploitations agricoles, les collectivités (interruption des services publics évitée, limitation des coûts de remise en état) ainsi que les infrastructures et réseaux (réduction des dommages et des interruptions de service). L'objectif de ce protocole est d'évaluer ces bénéfices en estimant les dommages évités, définis comme la différence entre les dommages attendus en l'absence de projet et ceux attendus après la mise en œuvre de la SFN.",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Vérifiez si le territoire est concerné par l'un ou plusieurs des dispositifs suivants : - Territoire à Risque Important d'Inondation (TRI) : les TRI identifient les territoires où le risque d'inondation est considéré comme prioritaire à l'échelle nationale. Les documents associés présentent les principaux enjeux exposés et les orientations de la stratégie locale de gestion du risque d'inondation. - Programme d'Actions de Prévention des Inondations (PAPI) : les PAPI mettent à disposition un diagnostic du territoire, des études hydrauliques, des analyses de vulnérabilité et, lorsqu'elles existent, des analyses coûts-bénéfices ou des estimations des dommages liés aux inondations. - Plan de Prévention du Risque Inondation (PPRI) : les PPRI permettent d'identifier les aléas d'inondation, les zones inondables, les enjeux exposés et les règles d'urbanisme applicables au territoire.",
+                  "data": "Consultez la cartographie des TRI afin de vérifier si votre territoire est identifié comme prioritaire au regard du risque d'inondation.: https://www.occitanie.developpement-durable.gouv.fr/une-definition-des-priorites-les-territoires-a-a24580.html Les listes et cartographies des PAPI sont disponibles sur les sites des DREAL Nouvelle-Aquitaine et Occitanie : https://www.nouvelle-aquitaine.developpement-durable.gouv.fr/liste-des-papi-en-nouvelle-aquitaine-a10116.html et https://www.occitanie.developpement-durable.gouv.fr/les-programmes-d-actions-de-prevention-des-a26760.html Consultez le PPRI de votre territoire. Les PPRI sont accessibles sur le portail Géorisques https://www.georisques.gouv.fr/plans-de-prevention-des-risques-ppr-par-departement?utm , qui permet de rechercher les PPR par département et de télécharger le rapport de présentation, les cartes d'aléas et d'enjeux ainsi que le règlement.",
+                  "results": "Identification des dispositifs de gestion du risque d'inondation applicables au territoire (TRI, PAPI, PPRI) et des documents associés disponibles. Première caractérisation du contexte d'inondation du territoire et des principales sources d'information mobilisables pour la suite de l'évaluation.",
+                  "vigilance": "L'absence de l'un de ces dispositifs ne signifie pas l'absence de risque d'inondation. Si ces documents ne sont pas disponibles ou ne couvrent pas votre territoire, le niveau 2 propose une démarche permettant de caractériser les enjeux exposés et d'évaluer les bénéfices potentiels de la SFN à partir d'autres données."
+                },
+                {
+                  "steps": "Consultez les documents associés au TRI, au PAPI et/ou au PPRI identifiés à l'étape précédente afin de rassembler les informations utiles à l'évaluation des bénéfices (dommages évités) de votre SFN. Recherchez notamment les informations suivantes : - l'historique des événements et les dommages observés ; - les principaux enjeux exposés : habitants, logements, entreprises, exploitations agricoles, équipements publics, infrastructures et réseaux ; - lorsqu'elles existent, les analyses coûts-bénéfices ou les estimations des dommages liés aux inondations.",
+                  "data": "Une fois le PAPI couvrant votre territoire identifié, consultez son site internet afin d'accéder aux diagnostics, études hydrauliques et documents techniques utiles à l'évaluation des bénéfices de votre SFN.",
+                  "results": "Description du contexte local du risque d'inondation, des principaux enjeux exposés et, lorsqu'elles sont disponibles, des estimations existantes des dommages liés aux inondations.",
+                  "vigilance": "Les TRI, PAPI et PPRI ne contiennent pas systématiquement des informations sur les dommages observés ou des analyses coûts-bénéfices. Lorsque ces informations sont absentes ou insuffisantes, le niveau 2 propose une démarche pour identifier et quantifier les enjeux exposés ainsi que les dommages potentiellement évités à partir d'autres sources de données."
+                },
+                {
+                  "steps": "Analyser la contribution de la SFN à la réduction des dommages liés aux inondations. À partir des informations recueillies aux étapes précédentes, décrivez de manière argumentée comment la solution fondée sur la nature devrait contribuer à réduire les dommages liés aux inondations sur le territoire. Précisez notamment : - les principaux enjeux susceptibles de bénéficier de la SFN (habitants, logements, entreprises, exploitations agricoles, équipements publics, infrastructures, réseaux, etc.) ; - la manière dont la SFN devrait réduire leur exposition ou leur vulnérabilité aux inondations (diminution des hauteurs d'eau, de la fréquence des débordements) ; - les types de dommages susceptibles d'être évités (dommages aux bâtiments, interruption d'activité, fermeture d'équipements publics, dégradation des infrastructures, pertes agricoles, etc.) ;",
+                  "data": "",
+                  "results": "Description argumentée des principaux dommages que la SFN est susceptible de réduire et des catégories d'enjeux qui devraient en bénéficier.",
+                  "vigilance": ""
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Vérifier si votre territoire se trouve dans un Territoire à Risque Important d'inondation (TRI) soulignant le caractère stratégique de votre projet",
+                  "data": "Le fichier \"arrêté de la liste des TRI du 24/10/2018\" est disponible sur : https://www.occitanie.developpement-durable.gouv.fr/une-definition-des-priorites-les-territoires-a-a24580.html",
+                  "results": "Votre territoire est situé dans un TRI",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Identifier si votre territoire a fait l’objet d’un classement «catastrophe naturelle » pour les inondations au cours des 10 dernières années",
+                  "data": "Site de la Caisse Centrale de Réassurance https://www.ccr.fr/portail-catastrophes-naturelles/ cherchez l'onglet \"arrêtés\" en haut à droite. Descendez vers \"listes des arrêtés\" et renseignez les informations demandées. Multiplier ce nombre par le coût moyen d'une reconaissance CatNaT : 350 000€ en moyenne sur les 10 dernières années (voir ici: https://www.ccr.fr/la-sinistralite-en-chiffres/).",
+                  "results": "Nombre d'arrêtés au journal officiel pour inondations et coût moyen d'une reconaissance CatNat pour innondation",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Collecter des informations complémentaires permettant de renforcer la caractérisation socio-économiquement des dommages (prix de l’immobilier, revenu agricole par ha, chiffre d’affaire annuel des entreprises concernées…) Estimer la part de ces dommages qui pourraient être évitée suite à la mise en œuvre de votre projet",
+                  "data": "Pour le chiffre d'affaires des entreprises, utilisez l'annuaire des entreprises : https://annuaire-entreprises.data.gouv.fr/. Pour le prix de l'immobilier, consultez le site de la DREAL, thématique \"logement\" : (ex. https://dreal.statistiques.developpement-durable.gouv.fr/eptb/2024/nouvelle_aquitaine/index.html). Pour le revenu agricole, consultez le site de la DRAAF de votre territoire, onglet \"données\" puis \"thématique\" et \"économie agricole\" puis \"Réseau d’information comptable agricole (Rica)\"",
+                  "results": "Chiffre d'affaires annuel des entreprises, prix des logements, revenus agricoles",
+                  "vigilance": ""
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Vérifiez si votre territoire se trouve dans un Territoire à Risque Important d'inondation (TRI). Si votre territoire est un TRI : utilisez les associées à votre TRI.",
+                  "data": "Sur https://www.nouvelle-aquitaine.developpement-durable.gouv.fr/les-strategies-locales-de-gestion-des-risques-a602.html télécharger l'arrêté d'approbation de votre territoire, qui donne dans son article 2 les sites ou télécharger la SLGRI. Une fois cette étape franchie, les activités à risques se trouvent dans la partie \"diagnostic de territoire\" Si votre territoire est hors TRI, utilisez le PAPI de votre territoire (partie diagnostic de territoire). Si votre territoire n'a pas de PAPI, utilisez les données historiques sur les évênements passés : https://www.ccr.fr/portail-catastrophes-naturelles/ ou l'annexe de l'évaluation préliminaire des risques inondations du bassin Adour-Garonne (partie \"impacts\") : https://www.occitanie.developpement durable.gouv.fr/IMG/pdf/epri_2024_cab.pdf Pour les TRI, la part relative des emplois par domaine d'activité est donnée dans la SLGRI.",
+                  "results": "Liste des activités susceptibles d'être impactées",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Si votre territoire est hors TRI, utilisez le PAPI de votre territoire (partie diagnostic de territoire).",
+                  "data": "La liste des PAPI se trouve sur le site de la DREAL, mais les pdf ne sont pas centralisés.",
+                  "results": "Nombre d'entreprises impactées",
+                  "vigilance": ""
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations :",
+              "url": "https://www.siba-bassin-arcachon.fr/sites/default/files/2024-03/slgri-document-final_oct-2017_0.pdf"
+            },
+            {
+              "label": "Documents guides :",
+              "url": "https://inondations-agglo-toulousaine.fr/dossier-papi-complet/"
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "impactId": 7,
+      "variants": [
+        {
+          "sheet": "Atténuation de la sécheresse",
+          "title": "Estimer les bénéfices liées à l'atténuation des risques de rareté de la ressources en eau/de sécheresse par la SfN",
+          "impactSummary": "La mise en oeuvre des SfN diminue l'intensité et la fréquence du risque de sécheresse. Cela a des conséquences positives sur la disponibilité de la ressource en eau pour la population ou les activités économiques comme l'agriculture (diminution des périodes de restrictions d'eau) et l'industrie (industrie alimentaire, papeterie, métallurgie etc.), L'augmentation de la fertilité des sols peut aussi limiter les apports en eau necessaire pour l'irrigation.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Décrire les prélèvements en eau qui bénéficient potentiellement des capacités de rétention de la SfN",
+                  "data": "Base de données des prélèvements de l'agence de l'eau, documents de SAGE ou autre processus territorial de gestion mis en place Informations sur les volumes annuels directement prélevés, déclinés par localisation et catégorie d'usage (potable, industriel, agricole, etc.) : https://bnpe.eaufrance.fr/rechercher-donnees. Renseignez la zone géographique. Une fois la recherche lancée, rendez-vous dans l'onglet \"Prélevements\" pour voir les ouvrages de prélevements. Sur le site https://geoidd.developpement-durable.gouv.fr/#bbox=165482,6829529,986599,598969&c=indicator&i=eau_prel_territoire.vol_eau_ter_usage&s=2023&t=A08&view=map59, choisissez le niveau de découpage pour avoir le volume total des prélèvements d'eau douce par territoire et selon les usages principaux.",
+                  "results": "Liste des prelevements et usagers",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Caractériser l'importance socio-économique de ces prélèvements: nombre d'usagers, nombre d'ha irrigués, taille du cheptel abreuvé, chiffre d'affaires des activités industrielles…",
+                  "data": "Données INSEE, rapport annuel de gestionnaire de services d'eau ou d'ASA Sur le site : https://geoidd.developpement-durable.gouv.fr/#c=indicator&i=eau_prel_territoire.vol_eau_ter_usage&s=2023&t=A08&view=map3, séléctionnez dans le menu à gauche, dans l'onglet EAU, la catégorie \"Volume des prélèvements par usage principal\", et l'usage qui vous intéresse. Sur cette carte : https://statistiques-locales.insee.fr/index.php#bbox=129491,5724463,712288,434734&c=indicator&i=ds_bpe.facilities_f121&s=2024&t=A01&view=map1, le nombre d'habitants en France. Sélectionnez le niveau souhaité (communes, départements, régions...) dans la rubrique \"Changer le découpage géographique\". Sélectionnez l'indicateur que vous souhaitez dans la Rubrique \"Choisir des indicateurs\", pour avoir par exemple le nombre d'enfants, de personnes âgées (DEMOGRAPHIE -> Evolutions et structure de la population), etc, et identifier plus précisément les populations concernées par la SfN. Données complètes de l'INSEE, à différentes échelles. Selectionnez le niveau géographique souhaité ainsi que la zone pour accéder au dossier complet associé, sur : https://www.insee.fr/fr/statistiques/zones/2011101 Sur le site : https://www.insee.fr/fr/statistiques/2012795, recensement des cheptel par départements et régions en fin d'année 2024. Utilisez l'onglet \"cultures par communes\" du site Agreste : https://agreste.agriculture.gouv.fr/agreste-web/disaron/G_1013/detail/",
+                  "results": "Importance socio economique de chaque prelevement",
+                  "vigilance": "Au besoin, réaliser une enquête locale pour contextualiser plus précisément l'importance socio-économique des prélevements."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Estimer les volumes supplémentaires disponibles en période de sécheresse qui résultent de la mise en oeuvre de la SfN",
+                  "data": "A partir d'estimation des volumes infiltrés, entretiens avec gestionnaires de service ou modélisation hydrologique si un modèle existe",
+                  "results": "Volume total supplementaire disponible en periode de sécheresse (x m3 for a period of x days or months)",
+                  "vigilance": "N'oubliez pas de préciser la fréquence de telles périodes de sécheresse (une fois tous les 5 ans, 2 ans, chaque année)"
+                },
+                {
+                  "steps": "Identifier les mesures de gestion alternative/de sécurisation de la ressources en eau pendant les épisodes de sécheresse (p.e. utilisation de connections à des réseaux voisins, nouveaux forages, distribution d'eau par camion citerne, etc.) que remplacent (évite) la SfN de par sa capacité de rétention/impacts positifs sur la ressource en eau",
+                  "data": "Entretiens avec les gestionnaires de services d'eau",
+                  "results": "Liste des mesures de gestion evitées grâce aux SfN",
+                  "vigilance": "Vérifier que ces mesures ne sont pas déjà mise en œuvre/font partie des mécanismes déjà en place de sécurisation de la ressource en eau. Si de telles mesures ont déjà été prises par le passé, seuls des réductions de coûts de gestion/exploitation et maintenance peuvent être attendus de la mise en place de la SfN"
+                },
+                {
+                  "steps": "Estimer les coûts annualisés (à partir de coûts d'investissement, de gestion et la durée de vie des équipements...) de la ou les solutions alternatives évitées",
+                  "data": "A partir des coûts de solutions alternatives mises en oeuvre dans le passé et fournis par les gestionnaires de services, données disponibles dans la litérature(=> voir tableau associé)",
+                  "results": "Coûts des services d'eau évités par la mise en place des SfN (€/an)",
+                  "vigilance": "Voir point ci-dessus sur prise en compte de l'ensemble des coûts, ou uniquement de réduction de coûts d'exploitation si des investissements de sécurisation de la ressource en eau en période de sécheresse ont déjà été effectués Il peut être intéressant d'estimer la réduction de prix de l'eau résultant de la mise en oeuvre de la SfN par rapport à des solutions techniques plus couteuses qui impacteraient directement la facture d'eau des ménages"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/04/2026_ARBNA_BilanQuantEauNA_2024-2025_VF.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://www.nwrm.eu/guide-fr/files/assets/common/downloads/publication.pdf"
+            }
+          ]
+        },
+        {
+          "sheet": "Atténuation de la sécheress (2)",
+          "title": "Estimer les bénéfices liées à l'atténuation des risques de rareté de la ressources en eau/de sécheresse par la SfN",
+          "impactSummary": "La mise en oeuvre des SfN diminue l'intensité et la fréquence du risque de sécheresse. Cela a des conséquences positives sur la disponibilité de la ressource en eau pour la population ou les activités économiques comme l'agriculture (diminution des périodes de restrictions d'eau) et l'industrie (industrie alimentaire, papeterie, métallurgie etc.), L'augmentation de la fertilité des sols peut aussi limiter les apports en eau necessaire pour l'irrigation.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier la sécheresse et la logique de la SfN : Quel type de sécheresse est concerné : sécheresse hydrologique (rivière et eaux souterraines), pédologique (sols); Par quel(s) mécanisme(s) la SfN agit-elle : augmentation de l'infiltration, recharge des nappes, restauration de zones humides, ralentissement du ruissellement, augmentation de la capacité de stockage des sols, restauration de ripisylves. Quels effets sont attendus : diminution des restrictions d'eau, sécurisation des prélèvements, maintien des débits d'étiage, maintien de la production agricole, réduction des conflits d'usage. Le territoire est-il déjà concerné par : une ZRE, un PTGE, des arrêtés sécheresse récurrents ; des difficultés d'alimentation en eau potable ?",
+                  "data": "Nature de la SfN, analyse du territoire…",
+                  "results": "Qualification du problème et de la solution fondée sur la nature.",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Décrire les prélèvements en eau qui bénéficient potentiellement de la SfN Quels usages bénéficient de cette amélioration : eau potable, agriculture, élevage, industrie, milieux aquatiques, tourisme ; collectivités.",
+                  "data": "Base de données des prélèvements de l'agence de l'eau, documents de SAGE ou autre processus territorial de gestion mis en place Informations sur les volumes annuels directement prélevés, déclinés par localisation et catégorie d'usage (potable, industriel, agricole, etc.) : https://bnpe.eaufrance.fr/rechercher-donnees. Renseignez la zone géographique. Une fois la recherche lancée, rendez-vous dans l'onglet \"Prélevements\" pour voir les ouvrages de prélevements. Sur le site https://geoidd.developpement-durable.gouv.fr/#bbox=165482,6829529,986599,598969&c=indicator&i=eau_prel_territoire.vol_eau_ter_usage&s=2023&t=A08&view=map59, choisissez le niveau de découpage pour avoir le volume total des prélèvements d'eau douce par territoire et selon les usages principaux.",
+                  "results": "Liste des prelevements et usagers (Réponse à : qui bénéficie de la SfN ?)",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Caractériser l'importance socio-économique de ces prélèvements: nombre d'usagers, nombre d'ha irrigués, taille du cheptel abreuvé, chiffre d'affaires des activités industrielles…",
+                  "data": "Données INSEE, rapport annuel de gestionnaire de services d'eau ou d'ASA Sur le site : https://geoidd.developpement-durable.gouv.fr/#c=indicator&i=eau_prel_territoire.vol_eau_ter_usage&s=2023&t=A08&view=map3, séléctionnez dans le menu à gauche, dans l'onglet EAU, la catégorie \"Volume des prélèvements par usage principal\", et l'usage qui vous intéresse. Sur cette carte : https://statistiques-locales.insee.fr/index.php#bbox=129491,5724463,712288,434734&c=indicator&i=ds_bpe.facilities_f121&s=2024&t=A01&view=map1, le nombre d'habitants en France. Sélectionnez le niveau souhaité (communes, départements, régions...) dans la rubrique \"Changer le découpage géographique\". Sélectionnez l'indicateur que vous souhaitez dans la Rubrique \"Choisir des indicateurs\", pour avoir par exemple le nombre d'enfants, de personnes âgées (DEMOGRAPHIE -> Evolutions et structure de la population), etc, et identifier plus précisément les populations concernées par la SfN. Données complètes de l'INSEE, à différentes échelles. Selectionnez le niveau géographique souhaité ainsi que la zone pour accéder au dossier complet associé, sur : https://www.insee.fr/fr/statistiques/zones/2011101 Sur le site : https://www.insee.fr/fr/statistiques/2012795, recensement des cheptel par départements et régions en fin d'année 2024. Utilisez l'onglet \"cultures par communes\" du site Agreste : https://agreste.agriculture.gouv.fr/agreste-web/disaron/G_1013/detail/",
+                  "results": "Importance socio economique de chaque prelevement",
+                  "vigilance": "Au besoin, réaliser une enquête locale pour contextualiser plus précisément l'importance socio-économique des prélevements."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Estimer les volumes disponibles qui résultent de la mise en oeuvre de la SfN, par exemple : le volume supplémentaire infiltré ou stocké (m³/an) ; la surface contribuant à la recharge (ha) ; l'évolution du niveau des nappes (m ou cm) ; l'augmentation des débits d'étiage (L/s ou m³/s) à maintien des usages économiques, le nombre de jours de restrictions évités à maintien de la production agricole ou industrielle ; le volume de prélèvements sécurisés (m³/an) ; Identifier les résultats sur les usagers qui bénéficient de la SfN : nombre d'habitants bénéficiant d'une meilleure sécurisation de l'alimentation en eau ; la surface agricole sécurisée (ha) à limitation des pertes de rendement ; le nombre d'exploitations agricoles concernées ; le nombre d'entreprises ou d'industries concernées ; le nombre de captages sécurisés à réduction du risque d'approvisionnement en eau potable",
+                  "data": "A partir d'estimation des volumes infiltrés, entretiens avec gestionnaires de service ou modélisation hydrologique si un modèle existe",
+                  "results": "Volume total supplementaire disponible en periode de sécheresse (x m3 for a period of x days or months) (réponse à : de combien profite la SfN)",
+                  "vigilance": "N'oubliez pas de préciser la fréquence de telles périodes de sécheresse (une fois tous les 5 ans, 2 ans, chaque année)"
+                },
+                {
+                  "steps": "Identifier les mesures de gestion alternative/de sécurisation de la ressources en eau pendant les épisodes de sécheresse (p.e. utilisation de connections à des réseaux voisins, nouveaux forages, distribution d'eau par camion citerne, etc.) que remplacent (évite) la SfN de par sa capacité de rétention/impacts positifs sur la ressource en eau",
+                  "data": "Entretiens avec les gestionnaires de services d'eau",
+                  "results": "Liste des mesures de gestion evitées grâce aux SfN",
+                  "vigilance": "Vérifier que ces mesures ne sont pas déjà mise en œuvre/font partie des mécanismes déjà en place de sécurisation de la ressource en eau. Si de telles mesures ont déjà été prises par le passé, seuls des réductions de coûts de gestion/exploitation et maintenance peuvent être attendus de la mise en place de la SfN"
+                },
+                {
+                  "steps": "Estimer les coûts annualisés (à partir de coûts d'investissement, de gestion et la durée de vie des équipements...) de la ou les solutions alternatives évitées",
+                  "data": "A partir des coûts de solutions alternatives mises en oeuvre dans le passé et fournis par les gestionnaires de services, données disponibles dans la litérature(=> voir tableau associé)",
+                  "results": "Coûts des services d'eau évités par la mise en place des SfN (€/an)",
+                  "vigilance": "Voir point ci-dessus sur prise en compte de l'ensemble des coûts, ou uniquement de réduction de coûts d'exploitation si des investissements de sécurisation de la ressource en eau en période de sécheresse ont déjà été effectués Il peut être intéressant d'estimer la réduction de prix de l'eau résultant de la mise en oeuvre de la SfN par rapport à des solutions techniques plus couteuses qui impacteraient directement la facture d'eau des ménages"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Identifier les pertes de production évitées Mesurer comment la disponibilité supplémentaire en eau permet de maintenir des activiés (agriculture, élevage, industrie, tourisme…)",
+                  "data": "",
+                  "results": "",
+                  "vigilance": ""
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/04/2026_ARBNA_BilanQuantEauNA_2024-2025_VF.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://www.nwrm.eu/guide-fr/files/assets/common/downloads/publication.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "impactId": 8,
+      "variants": [
+        {
+          "sheet": "Atténuation des températures",
+          "title": "Estimer les bénéfices liés à l'atténuation des risques liés aux températures extrêmes (canicules) par la SfN",
+          "impactSummary": "Les SfN produisent des effets bénéfiques sur l'atténuation des vagues de chaleur. En milieu urbain, la végétalisation des batiments diminue par exemple l'effet d'ilôt de chaleur, ce qui a des conséquences positives sur la gestion des risques : protection des publics plus vulnérables (enfants et personnes agées), amélioration des conditions de travail et donc de la productivité des travailleurs, dégradation évitée des infrastructures (routes rails etc.). En milieu agricole, la baisse des températures à des conséquences positives sur l'érosion des sols ou sur la sante du bétail qui beneficie de zones ombragees, par exemple.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Préciser les périodes de l'année pour lesquelles des périodes de forte chaleur sont et seront connues, et identifier les populations (humaines - habitants et/ou visiteurs/touristes, enfants, cheptel...) qui bénéficieront de la SfN",
+                  "data": "Sur le site https://meteofrance.com/climadiag-commune, en renseignant votre commune et une année de référence (2030,2050 ou 2100), vous obientrez des prévisions des températures par saisons, du nombre de jours et nuits très chauds, ainsi que le nombre de jours en vagues de chaleur. Pour voir les périodes de l'année où votre zone géographique a été au-dessus des températures \"normales\" : https://dataclimat.fr/temperature/ecart-normale. Sélectionnez une station dans le menu déroulant. Sur cette carte : https://statistiques-locales.insee.fr/index.php#bbox=129491,5724463,712288,434734&c=indicator&i=ds_bpe.facilities_f121&s=2024&t=A01&view=map1, le nombre d'habitants en France. Sélectionnez le niveau souhaité (communes, départements, régions...) dans la rubrique \"Changer le découpage géographique\". Sélectionnez l'indicateur que vous souhaitez dans la Rubrique \"Choisir des indicateurs\", pour avoir par exemple le nombre d'enfants, de personnes âgées (DEMOGRAPHIE -> Evolutions et structure de la population), etc, et identifier plus précisément les populations concernées par la SfN. Sur le site : https://www.insee.fr/fr/statistiques/2012795, recensement des cheptel par départements et régions en fin d'année 2024.",
+                  "results": "Liste des bénéficiaires",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Caracteriser leur importance en nombre de personnes (y compris populations vulnerables)/logements, population estivale de touristes, taille et type de cheptel",
+                  "data": "Entretien avec urbaniste, office du tourisme, agriculteur ou chambre d'agriculture selon superficie impactee. Sur cette carte : https://statistiques-locales.insee.fr/index.php#bbox=129491,5724463,712288,434734&c=indicator&i=ds_bpe.facilities_f121&s=2024&t=A01&view=map1, le nombre d'habitants en France. Sélectionnez le niveau souhaité (communes, départements, régions...) dans la rubrique \"Changer le découpage géographique\". Sélectionnez l'indicateur que vous souhaitez dans la Rubrique \"Choisir des indicateurs\", pour avoir par exemple le nombre d'enfants, de personnes âgées (DEMOGRAPHIE -> Evolutions et structure de la population), etc, et identifier plus précisément les populations concernées par la SfN. Données complètes de l'INSEE, à différentes échelles. Selectionnez le niveau géographique souhaité ainsi que la zone pour accéder au dossier complet associé, sur : https://www.insee.fr/fr/statistiques/zones/2011101 Sur le site : https://www.insee.fr/fr/statistiques/2012795, recensement des cheptel par départements et régions en fin d'année 2024.",
+                  "results": "Caractérisation socio-économique des populations concernées",
+                  "vigilance": ""
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Preciser l'impact attendu de la SfN en baisse de temperature et périodes critiques",
+                  "data": "A partir de la litérature (données techniques) ou modélisation spécifique élaborée pour le territoire concerné impacté",
+                  "results": "Périodes de canicule et baisse de température produite par la SfN",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Identifier les solutions alternatives au traitement de températures élevées qui seront évitées: climatisation (ville, étables), brumisateurs (espaces urbains), abris (pour le bétail en zones de paturage)...",
+                  "data": "Litérature et entretiens avec les professionnels des différents secteurs (voir tableau associé)",
+                  "results": "Liste des solutions alternatives évitées",
+                  "vigilance": "Vérifier que ces mesures ne sont pas déjà mise en œuvre/font partie des mécanismes déjà en place pour améliorer le confort thermique des bâtiments et des populations concernées. Si de telles mesures ont déjà été prises par le passé, seuls des réductions de coûts de gestion/exploitation et maintenance (par exemple, réduction de la facture d'électricité liée à la réduction de l'utilisation de la climatisation) peuvent être attendus de la mise en place de la SfN"
+                },
+                {
+                  "steps": "Estimer les coûts annualisés (à partir de coûts d'investissement, de gestion et durée de vie des équipements...) de la ou les solutions alternatives évitées",
+                  "data": "Estimations à partir de données de professionnels/vendeurs disponibles sur internet, coûts d'interventions similaires financés par le passé par la collectivité/agriculteur => voir tableau associé",
+                  "results": "Coûts d'alternative de gestion des canicules/périodes de forte chaleur évités par la mise en oeuvre des SfN",
+                  "vigilance": "Au regard des évolutions récentes du coût de l'énergie, préciser la part des coûts évités qui se rapporte aux coûts d'utilisation d'électricité et mener une analyse de sensibilité pour évaluer les coûts évités en scénario d'énergie chère"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Mener une enquête auprès des publics cibles concernés (habitants de quartiers, visiteurs/touristes…) pour caractériser des changements de comportements liés à la mise en place de la SfN (par exemple: changements des trajets utilisés pour se déplacer en ville et bénéficier d'espaces ombragés, réduction d'utilisation de climatiseur/réduction de la facture d'électricité, etc.)",
+                  "data": "Taille et types de populations concernés (auprès de services municipaux, office de tourisme…) pour définir des échantillons suffisants pour produire des résultats robustes",
+                  "results": "Explicitation de changements de pratiques liées à l'atténuation des températures dextrêmes, amélioration du bien-être (voir fiche cadre de vie également), implications financières (p.e. réduction de la facture d'électricité)",
+                  "vigilance": "Principalement pour une enquête ex-post explicitant un changement de comportement/pratique entre \"avant\" la SfN et \"après\" la mise en œuvre de celle-ci? Si des SfN sont mises en œuvre à grande échelle: explorer les rythmes d'investissements dans de nouveaux climatiseurs (vendeurs de matériel) ou la possibilité d'évolutions de factures d'electricité des ménages (données à l'échelle aggrégée obtenues auprès de distributeurs d'électricité?)"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://librairie.ademe.fr/changement-climatique/4649-rafraichir-les-villes-9791029717475.html"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://cdn.plusfraichemaville.fr/Guide_diagnostic_Surchauffe_Urbaine_202406.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "impactId": 9,
+      "variants": [
+        {
+          "sheet": "Amélioration qualité l'eau",
+          "title": "Estimer les bénéfices liés à l'amélioration de la qualité des eaux",
+          "impactSummary": "Par leur capacité de rétention et les processus biophysiques qu'elles facilitent, les SfN contribuent à l'amélioration de la qualité de l’eau de surface et des nappes phréatiques liée à la quantité de nutriments, de sédiments, pesticides, nitrates et autres polluants émergeants.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier les préleveurs et usagers de l'eau (domestique) dont la qualité des ressources prélevées sera impactée par la SfN mise en oeuvre . Identifier les écosystèmes et espèces aquatiques qui bénéficieront de l'amélioration de qualité de l'eau",
+                  "data": "Sur le site https://geoidd.developpement-durable.gouv.fr/#bbox=165482,6829529,986599,598969&c=indicator&i=eau_prel_territoire.vol_eau_ter_usage&s=2023&t=A08&view=map59, choisissez le niveau de découpage pour avoir le volume total des prélèvements d'eau douce par territoire et selon les usages principaux. Informations sur les volumes annuels directement prélevés, déclinés par localisation et catégorie d'usage (potable, industriel, agricole, etc.) : https://bnpe.eaufrance.fr/rechercher-donnees. Renseignez la zone géographique. Une fois la recherche lancée, rendez-vous dans l'onglet \"Prélevements\" pour voir les ouvrages de prélevements. Données de qualité des eaux de surface continentales (cours d'eau et plans d'eau), qui recensent les paramètres physiques, les concentrations de substances chimiques, les inventaires d'espèces et l'hydromorphologie. Séléctionnez la catégorie (Hydrobiologie, Hydromorphologie, Physiocochimie ou température), ainsi que la zone géographique souhaitée : https://naiades.eaufrance.fr/acces-donnees#/physicochimie",
+                  "results": "liste des préleveurs et usagers domestiques bénéficiant de la SfN. Liste des écosystèmes aquatiques et espèces bénéficiant de l'amélioration de qualité de l'eau",
+                  "vigilance": "Ne pas oublier les préleveurs individuels non connectés au service d'eau mais bénéficiant potentiellement directement de l'amélioration. Pour les écosytèmes et espèces, identifier celles particulièrement sensibles aux questions de qualité de l'eau"
+                },
+                {
+                  "steps": "Caractériser l'importance socio-économique de ces préleveurs: types et nombre d'usagers, volumes d'eau prélevés par an, chiffre d'affaires et emploi pour des industriels/artisants nécessitant une eau de très bonne qualité (par exemple, alimentaire, micro-brasseries...)",
+                  "data": "Rapports annuels des gestionnaires de service d'eau, services techniques de municipalités pour estimer l'importance de préleveurs individuels/services propres/artisans, rapports annuels d'industriels",
+                  "results": "Importance socio-économique du service d'eau/usagers domestiques/préleveurs individuels..",
+                  "vigilance": "Au besoin, réaliser une enquête locale pour contextualiser plus précisément l'importance socio-économique des préveleurs."
+                },
+                {
+                  "steps": "Les étapes à suivre",
+                  "data": "Les données à mobiliser",
+                  "results": "Les résultats obtenus",
+                  "vigilance": "Points de vigilance"
+                },
+                {
+                  "steps": "Estimer l'amélioration de qualité de l'eau attendue de la mise en oeuvre de la SfN",
+                  "data": "Litérature existante (références techniques) ou modèle quantité-qualité disponible",
+                  "results": "Différentiel de qualité de l'eau brute de par mise en oeuvre de la SfN",
+                  "vigilance": "Il se peut que l'impact positif de la SfN sur la qualité de l'eau brut ne soit pas suffisant pour assurer la potabilité de celle-ci, cette situation ne permettant pas d'éviter alors certains traitements. Il reste cependant le bénéfice d'une amélioration de qualité pour l'écosystèmes et la vie aquatique."
+                },
+                {
+                  "steps": "Identifier les solutions alternatives permettant d'améliorer la qualité de l'eau (connection à des services d'eau voisins, dillution, traitement chimique...) qui seraient évitées de par la mise en place de la SfN",
+                  "data": "Discussion avec le ou les gestionnaires de services d'eau concernés pour identifier la ou les solutions techniquement faisable et coût-efficaces",
+                  "results": "Liste de la ou des solutions alternatives (coût-efficaces) évitées grâce à la mise en oeuvre de la SfN",
+                  "vigilance": "Vérifier que ces mesures ne sont pas déjà mise en œuvre/font partie d'investissements déjà menés pour traiter l'eau brute prélevée par les distributeurs d'eau. Si de telles mesures ont déjà été prises par le passé, seuls des réductions de coûts de gestion/exploitation et maintenance peuvent être attendus de la mise en place de la SfN"
+                },
+                {
+                  "steps": "Estimer les coûts annualisés (à partir de coûts d'investissement, de gestion et durée de vie des équipements...) de la ou les solutions alterantives évitées",
+                  "data": "Estimations à partir de données de professionnels/vendeurs de solutions techniques disponibles sur internet, coûts d'interventions similaires financés par le passé par la collectivité => voir tableau associé",
+                  "results": "Coûts d'alternative de traitement de l'eau pour assurer sa potabilité pour les ménages",
+                  "vigilance": "Voir point ci-dessus sur prise en compte de l'ensemble des coûts, ou uniquement de réduction de coûts d'exploitation si des investissements de sécurisation de la ressource en eau en période de sécheresse ont déjà été effectués Il peut être intéressant d'estimer la réduction de prix de l'eau résultant de la mise en oeuvre de la SfN par rapport à des solutions techniques plus couteuses qui impacteraient directement la facture d'eau des ménages"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://www.biodiversite-nouvelle-aquitaine.fr/wp-content/uploads/2026/04/2026_ARBNA_BilanQuantEauNA_2024-2025_VF.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://donnees-documents.eau-loire-bretagne.fr/files/live/mounts/midas/Donnees-et-documents/Guides%20et%20%C3%A9tudes/SFN/RAP_Coevrons_SFN.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "impactId": 10,
+      "variants": [
+        {
+          "sheet": "Stockage du carbone",
+          "title": "Estimer les bénéfices liés à au stockage du carbone par la SfN",
+          "impactSummary": "Evolution du service de stockage de carbone résultant des changements d’écosystèmes, d’usages et de pratiques de gestion induits par le projet. L’évaluation du service écosystémique de stockage de carbone proposée dans cette méthodologie est pertinente uniquement dans les cas où la solution fondée sur la nature entraîne une modification de l’occupation du sol et/ou des pratiques de gestion. En l’absence de changement entre l’état initial et l’état projet, aucun gain ou évolution du service ne peut être estimé selon l’approche proposée. Afin d’assurer une application cohérente de la méthodologie, il est recommandé de se référer au tableau de typologie associé. Celui-ci permet d’identifier les catégories d’écosystèmes, d’usages et de modes de gestion prises en compte, ainsi que les types de changements pouvant être intégrés dans l’évaluation.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier le milieu principal dans lequel la SfN est mise en œuvre",
+                  "data": "Type de milieu à considérer : écosystèmes forestiers, écosystèmes agricoles, écosystèmes naturels terrestres, écosystèmes urbains.",
+                  "results": "Une catégorie de milieu retenue",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Renseigner la superficie totale concernée par le projet",
+                  "data": "Surface totale du projet en ha.",
+                  "results": "Une surface totale en ha.",
+                  "vigilance": "La surface doit correspondre à l’emprise réellement modifiée par la SfN"
+                },
+                {
+                  "steps": "Calculer la valeur totale de stockage carbone: Appliquer la formule correspondant au type d'écosystème identifié: Pour les écosystèmes forestiers : Valeur du service de stockage du carbone en € = Surface totale en ha × 143 049 € Pour les écosystèmes agricoles : Valeur du service de stockage du carbone en € = Surface totale en ha × 52 361 € Pour les écosystèmes naturels terrestres : Valeur du service de stockage du carbone en € = Surface totale en ha × 307 607 € Pour les écosystèmes urbains : Valeur du service de stockage du carbone en € = Surface totale en ha × 24 435 €",
+                  "data": "",
+                  "results": "Une estimation de la valeur totale du service de stockage du carbone pour la superficie considérée, exprimée en euros.",
+                  "vigilance": "La valeur calculée correspond à une valeur totale de référence du service de stockage du carbone pour l'écosystème considéré. Elle ne permet pas d'évaluer l'impact de la solution fondée sur la nature sur ce service. L'effet attendu de la SfN doit être analysé à l'étape d. afin de déterminer si le projet est susceptible d'améliorer, de maintenir ou de dégrader le stockage du carbone"
+                },
+                {
+                  "steps": "Qualifier l'impact potentiel de la SfN sur la capacité de stockage. Qualifier l'impact attendu de la SfN sur le service de stockage du carbone à dire d'expert, en fonction des changements prévus sur les écosystèmes, les usages et les pratiques de gestion. Attribuer l'une des classes suivantes : Impact très positif (+++) --> La SfN entraîne une forte augmentation attendue du stockage du carbone. Exemples : restauration de tourbières ; création ou restauration de zones humides ; boisement . Impact positif (++) --> La SfN entraîne une augmentation significative du stockage du carbone. Exemples : plantation de haies ; création de parcs ; dédrainage de zones humides ; conversion de cultures annuelles en prairie permanente. Impact faiblement positif (+) --> La SfN entraîne une augmentation limitée ou localisée du stockage du carbone. Exemples : noues végétalisées ; fossés végétalisés ; désimperméabilisation avec végétalisation limitée. Impact neutre (0) --> La SfN n'entraîne pas d'effet significatif attendu sur le stockage du carbone. Exemples : passe à poissons ; diversification des habitats aquatiques ; restauration de la continuité écologique. Impact négatif (-) --> La SfN entraîne une diminution potentielle du stockage du carbone. Exemples : suppression d'une végétation existante sans compensation ; interventions conduisant à une perte durable de biomasse ou de matière organique.",
+                  "data": "",
+                  "results": "Une qualification de l'impact potentiel de la SfN sur le service de stockage du carbone : +++, ++, +, 0 ou -.",
+                  "vigilance": "Cette évaluation repose sur un jugement d'expert et ne constitue pas une estimation quantitative des gains de stockage du carbone. Lorsque les informations détaillées sur les occupations du sol et les pratiques de gestion sont disponibles, il est recommandé d'utiliser le niveau 2."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Identification d'occupation de sol présentes dans l'emprise du projet selon la typologie proposée. La typologie utilisée repose sur l’association de trois niveaux d’information : l’écosystème ; l’usage ou l’occupation du sol ; le mode de gestion ou les pratiques mises en œuvre. Les surfaces devront être systématiquement être exprimées en ha.",
+                  "data": "",
+                  "results": "Un tableau des surfaces par catégorie (selon typologie proposée) en hectares. Lorsque plusieurs occupations du sol sont présentes au sein du projet, les surfaces doivent être distinguées et renseignées séparément. Exemple : forêt fermée de feuillus : 12,4 ha ; prairie permanente : 5,8 ha ; cultures annuelles : 3,2 ha.",
+                  "vigilance": "La méthodologie repose sur la comparaison entre : un état initial (avant projet) ; un état projet (après mise en œuvre des actions). L’objectif est d’estimer l’évolution potentielle du service de stockage de carbone liée au projet. Afin d’assurer la compatibilité avec les valeurs de référence, les catégories utilisées doivent correspondre aux typologies définies dans le tableau de référence."
+                },
+                {
+                  "steps": "Extraire la/les valeur(s) de référence correspondante(s) du tableau",
+                  "data": "'Stockage du carbone_données",
+                  "results": "Un tableau des valeurs de référence attribuées à chaque type d'utilisation de sol pour l'état initial",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Calcul de la valeur totale de l'état initial La valeur totale de l’état initial est calculée pour chaque unité selon la formule suivante : Valeur initiale = Valeur de référence × Surface La valeur totale du site correspond à la somme des valeurs obtenues pour l’ensemble des unités.",
+                  "data": "Pour la valeur de référence, utilisez le lien donné à l'étape précédente",
+                  "results": "Une valeur totale en € de l’état initial",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Décrire précisément les actions prévues et es changements attendus sur l'occupation de sol",
+                  "data": "Utilisez les données du projet.",
+                  "results": "Une déscription des changements attendus sur les écosystèmes et les pratiques",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Définition des occupations du sol futures, selon la typologie proposée Préciser: - les nouvelles catégories d’occupation du sol ; - les surfaces concernées ;",
+                  "data": "Utilisez les données du projet.",
+                  "results": "Un tableau avec les occupations du sol futures exprimées en hectares",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Extraire la/les valeur(s) de référence corresponante(s) du tableau pour l'état après projet",
+                  "data": "Stockage du carbone_données",
+                  "results": "Un tableau des valeurs de référence attribuées à chaque type d'utilisation de sol pour l'état après projet",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Calcul de la valeur totale du projet La valeur totale de l’état initial est calculée pour chaque unité selon la formule suivante : Valeur initiale = Valeur de référence × Surface La valeur totale du site correspond à la somme des valeurs obtenues pour l’ensemble des unités.",
+                  "data": "",
+                  "results": "Une valeur totale en € de l’état après projet",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Estimater les gains liés au projet Gain estimé = Valeur projet – Valeur initiale",
+                  "data": "",
+                  "results": "Une estimation chiffrée des gains de stockage de carbone",
+                  "vigilance": "Un gain positif indique une amélioration potentielle du service de stockage de carbone entre l’état initial et l’état projet. Les valeurs calculées représentent la valeur économique totale du service de stockage et de séquestration du carbone associée aux écosystèmes considérés. Elles ne correspondent pas à un flux annuel de séquestration et ne doivent pas être interprétées comme des gains ou pertes annuels."
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://www.maregionsud.fr/fileadmin/user_upload/1-FICHIERS/2-DOCUMENTS/Environnement/BiodivAlpes/PROBIODIV/PROBIODIVEtude_de_caract___risation_des_services____cosyst___miques_Saisies.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://observatoire.foret.gouv.fr/api-obs/upload/INRA_2019_etude-4-pour-1000-synthese.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "impactId": 11,
+      "variants": [
+        {
+          "sheet": "Productions primaires",
+          "title": "Augmentation des productions primaires (agricoles, forestières, piscicoles…) liée à la mise en œuvre de la SfN",
+          "impactSummary": "La mise en œuvre de SfN peut conduire à la fourniture de services de production de biomasse, que ce soit: (a) sécurisation ou augmentation de productions agricoles (par exemple, production de fourrage pour le bétail); (b) sécurisation, augmentation de la production ou amélioration de la qualité de la production de bois (plaquettes pour chauffage issues de haies, bois de chauffage, bois pour industrie papetière ou gros oeuvre). Pour des sites et cours d'eau connectés accueillant des activités de pêche professionnelle, un développement d'espèces piscicoles que ce soit par la fourniture d'espaces pouvant servir de frayères, une meilleure croissance ou une diversification d'espèces pouvant être pêchées et vendues peut parfois demander une analyse spécifique.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier les productions qui résultent de la mise en œuvre de la SfN",
+                  "data": "",
+                  "results": "Description qualitative de l'impact sur des productions primaires",
+                  "vigilance": "Veiller à considérer l'ensemble des effets potentiels sur les activités productives concernées."
+                },
+                {
+                  "steps": "Caractériser l'importance de ces productions: nombre d'hectares concernées par la mise en place de la SfN, nombre d'agriculteurs concernés, types de cultures, production moyenne par hectare, chiffre d'affaires (production x prix des produits sur le marché) et marge brute d'exploitation (chiffre d'affaire moins coûts de production) à partir de données régionales/disponibles dans des bases de données agricoles/forestières existantes",
+                  "data": "Utilisez le site de la DRAAF de votre région. En haut de la page, sélectionner l'onglet \"production et filières\" et sélectionner la filière pertinente (filière agricole, forêt/bois etc.). Vous pouvez égalemment utiliser les données des statistiques agricoles de votre région (par exemple dans l'onglet \"données statistiques\" puis \"publications par thématiques\" et \"données économiques\", téléchargez les données du Réseau d’information sur la durabilité des exploitations agricoles (RIDEA) : https://draaf.nouvelle-aquitaine.agriculture.gouv.fr/IMG/pdf/essentielrica2024.pdf. Pour la pisiculture, vous pouvez passer par l'enquête \"Aquaculture\" nationale, onglet \"emploi_pisiculture\" via cette page : https://agreste.agriculture.gouv.fr/agresteweb/disaron/Chd2604/detail/",
+                  "results": "Superficie (ha) - pour la ou les productions végétales concernées, nombre d'exploitants (agricoles, forestiers…), production (tonnes/an), chiffre d'affaires (€/an)",
+                  "vigilance": "Les données mobilisées sont souvent issues de statistiques régionales ou départementales et peuvent ne pas refléter les caractéristiques spécifiques du territoire étudié. Les marges et production pouvant varier fortement dans le temps, préciser l'année de référence utilisée. Les chiffres d'affaires estimés ne correspondent pas aux bénéfices économiques des exploitations. Lorsque cela est possible, privilégier les données de marge brute ou de valeur ajoutée."
+                },
+                {
+                  "steps": "Contextualiser à partir de données des superficies agricoles et agriculteurs disponibles dans les bases de données territoriales",
+                  "data": "",
+                  "results": "En % des superficies des exploitants concernés, en % de la production totale des exploitants concernés",
+                  "vigilance": "Les pourcentages calculés permettent de situer l'importance relative des productions concernées à l'échelle du territoire, mais ne constituent pas une mesure directe de l'impact de la SfN. Ils doivent être interprétés comme des éléments de contexte permettant d'apprécier l'importance économique potentielle des productions concernées."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Estimer les rendements, marges brutes attendues, rôles et importance des productions agricoles/forestières produites par la SfN pour les exploitants (agricoles/forestiers) concernés - y compris estimation de réduction d'achats de produits (par exemple fourrage) en période de sécheresse",
+                  "data": "Entretiens ciblés auprès des agriculteurs ou forestiers concernés, ou représentants de ces secteurs (par exemple, chambre d'agriculture)",
+                  "results": "- Description qualitative de l'impact de la SfN sur la sécurisation et/ou l'augmentation de production et rôle dans la startégie des exploitations concernées - Superficie (ha) - pour la ou les productions végétales concernées, nombre d'exploitants (agricoles, forestiers…). Production (tonnes/an), chiffre d'affaires (€/an) et/ou valeur ajoutée (€/an)",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Contextualiser à partir de données des superficies agricoles et agriculteurs disponibles dans les bases de données territoriales",
+                  "data": "",
+                  "results": "En % des superficies des exploitants concernés, en % de la production totale des exploitants concernés",
+                  "vigilance": ""
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Si modèle de croissance des végétaux disponible, estimation de l'impact de la SfN sur la biomasse et production totale",
+                  "data": "Modèle de croissance des végétaux",
+                  "results": "Tonnes de biomasse supplémentaire produites/an suite à la mise en place de la SfN",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Puis suivre les étapes des niveaux précédents permettant d'estimer un chiffre d'affaires, une marge brute, etc.",
+                  "data": "",
+                  "results": "",
+                  "vigilance": ""
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://www.reserve-pinail.org/wp-content/uploads/2025/06/Livrable_Pinail_ValeurAjoutee.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://www.igedd.developpement-durable.gouv.fr/IMG/pdf/014972-01_rapport_publie_cle54a511.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "impactId": 12,
+      "variants": [
+        {
+          "sheet": "Activités récréatives",
+          "title": "Développement d'activités récréatives et culturelle en lien avec la mise en œuvre de la SfN",
+          "impactSummary": "La mise en œuvre de SfN peut conduire au développement d'activités récréatives, culturelles et éducatives, que ce soit dans des sites proches et connectés au milieu amélioré par la SfN qui font déjà l'objet de telles activités, ou dans le nouveau milieu créé par la SfN en particulier si des mesures d'accompagnement (signalisation, chemins éducatifs...) sont mises en place. Si suffisamment importantes, l'accroissement de la fréquentation de certains sites/de pratiquants d'activités de loisirs peut se traduire par une augmentation de chiffre d'affaires et d'emploi de gestionnaires de sites/d'activités récréatives. Des visites éducatives d'un nombre croissant d'écoles/de scolaire conduit également à renforcer la sensibilisation des jeunes/enfants aux enjeux et solutions des transitions climatiques et écologiques.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier les sites touristiques ou d'activités de loisirs, ou les institutions du domaine éducatif (écoles, collèges, CPIE...) à proximité du lieu d'implantation de la SfN qui pourraient bénéficier de la SfN/dont les visiteurs pourraient visiter la SfN",
+                  "data": "Recensement des offres touristiques par régions. Choisissez la région souhaitée (dossiers reg_...) : https://www.data.gouv.fr/datasets/datatourisme-la-base-nationale-des-donnees-publiques-dinformation-touristique-en-open-data Carte des équipements sportifs et lieux de loisirs : https://equipements.sports.gouv.fr/pages/accueil/ Carte de certains lieux liés au loisir et au tourisme (hôtels, camping...) : https://statistiques-locales.insee.fr/#view=map1&c=indicator. Séléctionnez \"SECTEUR D'ACTIVITE\" puis \"Tourisme\" et la catégorie de votre choix.",
+                  "results": "Liste des sites et institutions éducatives pouvant bénéficier directement ou indirectement des services nouveaux fournis par la SfN",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Estimer la fréquentation de ces sites, les pratiquants des activités de loisir, le nombre d'élèves dans les écoles/participants à des activités éducatives, etc.",
+                  "data": "Voir sites internet/rapport annuels d'organismes en charge de ces sites, données disponibles sur les activités de loisir, potentiellement d'étude départementales/régionales faisant l'état des lieux d'activités de loisir",
+                  "results": "Fréquentation des sites, nombre de pratiquants d'activités de loisir e ou nombre d'élèves pouvant bénéficier directement ou indirectement des services nouveaux fournis par la SfN",
+                  "vigilance": "Préciser les périodes de l'année de fréquentation/pratique d'activités"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Identifier les impacts attendus de la SfN sur la fréquentation (a) de sites existants et/ou (b) le développement d'activités récréatives et culturelles sur le nouveau site créé par la SfN",
+                  "data": "Entretiens auprès des professionnels et gestionnaires des sites/centres éducatifs et/ou de professionnels pouvant potentiellement développer de nouvelles activités",
+                  "results": "Hypothèses d'évolution des fréquentations ou visites (nombre de visiteurs/an ou pendant les périodes de pratique d'activités/de fréquentation, nombre d'enfants pouvant visiter le site pour des activités éducatives) en lien avec la mise en œuvre de la SfN - en % ou en nombre de pratiquants/visiteurs",
+                  "vigilance": "Cette étape, délicate, est cruciale dans l'estimation de l'importance d'impacts récréatifs et culturels. Elle nécessite des échanges avec les professionnels des secteurs concernés pouvant appréhender le potentiel d'évolution de leur activité ou la possibilité d'organiser des activités éducatives nouvelle ou complémentaires au regard des opportunités qu'offrent la SfN."
+                },
+                {
+                  "steps": "Estimer les dépenses des visiteurs nouveaux sur les sites existants/nouveaux sites",
+                  "data": "Voir données de dépenses journalières de touristes/pratiquants d'activités récréatives disponibles dans des études menées aux échelles régionales ou nationales",
+                  "results": "Dépenses totales (en €/an) des visiteurs ou touristes des sites concernés bénéficiant de la mise en œuvre de la SfN",
+                  "vigilance": "Des indicateurs monétaires ne seront développés que pour les visites/activités récréatives, mais pas pour les impacts sur des activités éducatives."
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Mener une enquête auprès des publics cibles concernés (visiteurs de sites: habitants des territoires, touristes…) pour caractériser des changements de comportements liés à la mise en place de la SfN (par exemple: visites plus fréquentes ou plus longues du site, préférence de visite de ce site par rapport à d'autres sites aux caractéristiques identiques, changement de pratique d'activités de loisirs, etc.)",
+                  "data": "Taille et types de populations concernés (auprès d'office de tourisme, gestionnaires d'activités de loisirs/de sites protégés…) pour définir des échantillons suffisants pour produire des résultats robustes",
+                  "results": "Explicitation de changements de pratiques d'activités de loisir liées à l'amélioration des caractéristiques de sites, amélioration du bien-être, évolutions de dépenses pour visiter/mener des activités de loisirs (nouvelles) de sites",
+                  "vigilance": "Principalement pour une enquête ex-post explicitant un changement de comportement/pratique entre \"avant\" la SfN et \"après\" la mise en œuvre de celle-ci? Si des SfN sont mises en œuvre à grande échelle: explorer des données existantes sur les fréquentations de sites et évolutions d'activités de loisir ou mener une enquête plus systématique auprès des gestionnaires d'activité ou de sites concernés"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://reseau-cen-doc.org/Default/doc/SYRACUSE/64380/etude-de-caracterisation-des-services-ecosystemiques-de-la-tourbiere-des-saisies-rapport-phases-a-b-?_lg=fr-FR"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://www.vie-publique.fr/files/rapport/pdf/279537.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "impactId": 13,
+      "variants": [
+        {
+          "sheet": "Cadre de vie",
+          "title": "Amélioration du cadre de vie lié à la mise en œuvre de la SfN",
+          "impactSummary": "De nombreuses SfN, et l'augmentation d'éléments naturels (arbres, haies, espaces verts, etc.) conduisent à des modifications du cadre de vie bénéficiant: (a) aux habitants de villes ou de territoires au sein desquels les SfN sont mises en oeuvre; (b) d'enfants et jeunes en particulier quand les SfN contribuer à reanuraliser les cours d'écoles et aires de jeus: (c) les visiteurs et touristes qui visitent la ville ou le territoire concerné. De telles modifications ont des impacts positifs sur la santé (physicque et psychique) des personnes ainsi que sur leur bien-être.",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Identifier les populations/types de publics potentiellement impactées par l'amélioration du cadre de vie",
+                  "data": "Analyse de cartes et échanges avec les professionnels (services urbanisme, services sociaux, office du tourisme…)",
+                  "results": "Liste des populations/publics cibles positivement impactées par l'amélioration du cadre de vie",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Quantifier l'importance des populations bénéficiant de l'amélioration du cadre de vie",
+                  "data": "Nombre d'enfants dans des écoles, nombre d'habitants dans les quartiers concernés",
+                  "results": "Taille (nombre de personnes) des populations/publics cibles - en valeur absolue et relative (en % des populations totales du territoire/des écoles/visitant le territoire)",
+                  "vigilance": "Au-delà des habitants des quartiers considérés, l'amélioration du cadre de vie d'une partie de territoire peut également bénéficer à d'autres personnes dont les déplacements traversent par exemple le quartier."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "A partir de la litérature existante sur l'impact sur le bien être et la santé d'un cadre de vie \"renaturalisé\", y compris en terme économiques, décrire l'impact sociétale sur le bien-être et la santé et estimer la valeur économique totale résultant d'une amélioration du cadre de de vie",
+                  "data": "Litérature existante sur impacts sociétaux d'une amélioration du cadre de vie résultant d'une place plus importante donnée à la nature",
+                  "results": "Impacts de l'amélioration du cadre de vie sur la santé et le bien-être (description qualitative, indicateurs monétaires)",
+                  "vigilance": "Un tel transfert de valeur monétaire d'un impact sur le bien être et la santé issue d'autres sites doit être mené avec précaution, s'assurant en particulier de la comparabilité des contextes, populations et amélioration du cadre de vie entre le territoire au sein duquel la SfN est mise en oeuvre et les contextes considérés dans la litérature. Le transfert de valeur monétaire ne s'applique pas aux populations d'enfants des écoles."
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "label": "Niveau 3",
+              "complexity": "complexe",
+              "items": [
+                {
+                  "steps": "Mettre en place un protocole d'enquête pour collecter l'avis d'habitants et personnes concernées par l'amélioration du cadre de vie - y compris en ce qui concerne leur consentement à payer pour une améliorer du cadre de vie",
+                  "data": "Nombre et diversité d'habitants des quartiers concernés (services de la commune) ou nombre et types de visiteurs des sites (via données de l'office de tourisme) permettant d'établir un protocole d'enquête (nombre de personnes, période d'enquête, mode d'enquête, etc.) d'enquête",
+                  "results": "Les impacts sur le bien être et la santé caractérisés, une valeur monétaire de consentement à payer (€/personne/an) pour une amélioration du cadre de vie",
+                  "vigilance": "Une telle enquête n'est pertinente que pour des améliorations signficatives du niveau de naturalité de bâtiments, quartiers ou espaces publics. Elle demande des ressources humaines et /ou financières importantes au regard des tailles d'échantillons nécessaires pour assurer la robustesse des analyses statistiques menées pour évaluer le consentement à payer des habitants par exemple. En ce qui concerne l'impact de SfN ciblant les cours d'école, des entretiens ciblés avec le personnel enseignant ou un protocole d'enquête adaptée auprès d'enfants d'écoles bénéficiaires peut être envisagée. Cependant, une telle approche ne semble pertinente que dans une situation \"ex-post\" une fois la SfN mise en oeuvre et ses bénéfices clairements visibles."
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://doc.cerema.fr/Default/search.aspx#/Detail/(query:(Id:'0_OFFSET_0',Index:1,NBResults:257,PageRange:3,SearchQuery:(CloudTerms:!(),ExceptTotalFacet:!t,FacetFilter:%7B%7D,ForceSearch:!t,HiddenFacetFilter:'%7B%22_453%22:%22Les%20essentiels%22%7D',InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'2f5c19c1-63e6-4101-999f-4ada1ce5b504',QueryString:'nature%20en%20ville',ResultSize:10,ScenarioCode:DEFAULT,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'nature%20en%20ville',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Default,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://doc.cerema.fr/Default/search.aspx#/Detail/(query:(Id:'3_OFFSET_0',Index:4,NBResults:257,PageRange:3,SearchQuery:(CloudTerms:!(),ExceptTotalFacet:!t,FacetFilter:%7B%7D,ForceSearch:!t,HiddenFacetFilter:'%7B%22_453%22:%22Les%20ressources%22%7D',InitialSearch:!f,Page:0,PageRange:3,QueryGuid:'9a05b360-5a68-425a-8a10-17e11c96c8ba',QueryString:'nature%20en%20ville',ResultSize:10,ScenarioCode:DEFAULT,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'nature%20en%20ville',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Default,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "impactId": 14,
+      "variants": [
+        {
+          "sheet": "Patrimoine naturel",
+          "title": "Amélioration du patrimoine naturel lié à la mise en œuvre de la SfN",
+          "impactSummary": "La mise en oeuvre des SfN participe à l'amélioration de la qualité des sites en restaurant des écosystèmes dégradés ou en en créant de nouveaux (zones humides, cours d'eau etc.). Les SfN peuvent ainsi contribuer au bien-être des visiteurs sur les sites ouverts au public. Elles améliorent égalemment la qualité des espaces protégés et la protection des espèces, notamment via le développement de la biodiversité (diversité des espèces, augmentation des populations et création de nouveaux habitats).",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Caractérisez l'état du patrimoine naturel sur votre territoire à l'aide des documents de planification (SCOT, PLU etc.)",
+                  "data": "Rapport de présentation du SCOT et PLU, partie \"environnement\"",
+                  "results": "Etat qualitatif des espaces naturels et agricoles avec identification des réservoirs de biodiversité et éléments de patrimoine naturels clés (sites protégés, espaces naturels sensibles).",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Sur le site de l'observatoire des territoires, dans la partie \"sélectionnez des indicateurs\", choisissez la sous catégorie \"biodiversité et patrimoine\", niveau commune",
+                  "data": "Site de l'observatoire des territoires : https://www.observatoire-des-territoires.gouv.fr/outils/cartographie-interactive/#c=indicator&f=APB&i=espaces_proteges.part_espace_protege&view=map76",
+                  "results": "Part de la superficie des espaces protégés dans la superficie du territoire, part de la superficie en zone Natura 2000",
+                  "vigilance": ""
+                },
+                {
+                  "steps": "Expliciter la contribution de la SfN (renaturation de cours d'eau, restauration de zones humides etc.) au fonctionnement et à l'état des espaces naturels",
+                  "data": "Documents de présentation du projet (dossiers de demande de subvention, dossiers techniques etc.), entretiens avec naturalistes et professionnels (OfB, gestionnaires de sites naturels/espaces protégés...)",
+                  "results": "Liste des sites protégés/espaces naturels dont l'état bénéficiera de la mise en oeuvre de la SfN",
+                  "vigilance": ""
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "label": "Niveau 2",
+              "complexity": "intermédiaire",
+              "items": [
+                {
+                  "steps": "Mettre en place un protocole d'enquête pour collecter l'avis d'habitants/population sur l'importance sociétale du patrimoine naturel bénéficiant de la mise en oeuvre de la SfN - y compris sur leur consentement à payer pour assurer son bon état écologique",
+                  "data": "Données de fréquentation de sites naturels (auprès de gestionnaires des sites), données de population pour développer un plan d'échantillonnage",
+                  "results": "Les usages actuels des espaces naturels/espaces protégées, l'importance d'espaces naturels en bon état pour les habitants, le consentement à payer des habitants (en €/personne/an) pour un patrimoine naturel en bon état écologique",
+                  "vigilance": "Une telle enquête n'est pertinente que pour des sites naturels, espaces protégés et éléments de biodiversité... d''ampleur connus et reconnus par une partie de la population résidente ou visiteurs dont l'état de conservation/de bon fonctionnement sera fortement impacté par la mise en oeuvre de la SfN. Elle demande des ressources humaines et /ou financières importantes au regard des tailles d'échantillons nécessaires pour assurer la robustesse des analyses statistiques menées pour évaluer le consentement à payer des habitants"
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://www.arb-occitanie.fr/wp-content/uploads/2023/08/2_srb_occitanie_diagnostic_ap2020-v2.pdf"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://www.credoc.fr/publications/les-retombees-economiques-et-les-amenites-des-espaces-naturels-proteges-rapport-general"
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "impactId": 15,
+      "variants": [
+        {
+          "sheet": "Résilience territoriale",
+          "title": "Amélioration de la résilience globale du territoire de par la mise en œuvre de la SfN",
+          "impactSummary": "En cas d'aléa naturel (crues, inondations etc.) les SfN contribuent à l'amélioration globale de la capacité d'adaptation et de récupération du territoire. Par exemple, sur le littoral, les zones d’expansion des crues protègent les habitations et les infrastructures, réduisant l’anxiété liée aux risques naturels et le coût des dommages assurantiels pour la collectivité et les particuliers. En ville la végétalisation aise à lutter contre les canicules et limite l'impact sur certaines activités essentielles (surcharge des hopitaux, ralentissement de l'activité dans les services publics etc.).",
+          "beforeStarting": "",
+          "levels": [
+            {
+              "id": 1,
+              "label": "Niveau 1",
+              "complexity": "simple",
+              "items": [
+                {
+                  "steps": "Décrire l'impact de la SfN sur la résilience globale et la capacité adaptative du territoire, i.e. sa capacité à répondre à des évolutions (du climat, des populations, des activités économiques) non attendues extrêmes ou contraires aux hypothèses d'évolution future établies",
+                  "data": "Organiser un atelier d'acteurs et professionnels pour partager l'ensemble des implications et impacts liées à la mise en œuvre de la SfN et évaluer sa contribution globale à la résilience du territoire",
+                  "results": "Une explicitation qualitative du rôle de al SfN dans la résilience du territoire",
+                  "vigilance": "Il n'existe pas de métrique opérationnel simple pour définir la résilience du territoire comme indicateur aggrégateur sans répéter les éléments déjà abordés dans les fiches atténuation (inondation, sécheresse, température, qualité..). Des échanges autour de scénarios \"improbables\" permettant d'analyser la capacité de la SfN à continuer à être efficace et pertinente quelque soit le scénario envisagé peuvent permettre d'animer un tel échange collectif qui permet d'apporter une vision plus large intégrée de la SfN."
+                }
+              ]
+            }
+          ],
+          "references": [
+            {
+              "label": "Illustrations",
+              "url": "https://doc.cerema.fr/Default/search.aspx#/Detail/(query:(Id:'46_OFFSET_0',Index:47,NBResults:158,PageRange:3,SearchQuery:(CloudTerms:!(),ExceptTotalFacet:!t,FacetFilter:%7B%7D,ForceSearch:!t,HiddenFacetFilter:'%7B%22_453%22:%22Les%20essentiels%22%7D',InitialSearch:!f,Page:4,PageRange:3,QueryGuid:'23ef9779-41b8-423e-9c4e-5ef32267757c',QueryString:'resilience%20des%20territoires',ResultSize:10,ScenarioCode:DEFAULT,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'resilience%20des%20territoires',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Default,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"
+            },
+            {
+              "label": "Documents guides",
+              "url": "https://doc.cerema.fr/Default/search.aspx#/Detail/(query:(Id:'17_OFFSET_0',Index:18,NBResults:158,PageRange:3,SearchQuery:(CloudTerms:!(),ExceptTotalFacet:!t,FacetFilter:%7B%7D,ForceSearch:!t,HiddenFacetFilter:'%7B%22_453%22:%22Les%20essentiels%22%7D',InitialSearch:!f,Page:1,PageRange:3,QueryGuid:e1ec416b-5cb4-4a54-a817-f09ee940b5a1,QueryString:'resilience%20des%20territoires',ResultSize:10,ScenarioCode:DEFAULT,ScenarioDisplayMode:display-standard,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'resilience%20des%20territoires',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Default,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
